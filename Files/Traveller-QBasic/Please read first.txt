@@ -1,0 +1,12 @@
+Hi,
+
+in this folder I am going to publish several Qbasic files I wrote in the last 15 years. They are usually tool collections for Traveller referees that contain published tables and lists, so that long design processes can be cut short.
+
+Since I wrote these programs for my personal use, I did not add any commentary or help files (sorry for that), since I never intendend to publish them. 
+
+I will add short comments in this list when I publish new files.
+
+Yours
+Peter Kreft
+
+BTW: Use the files, modifiy them as you wish they are freeware.

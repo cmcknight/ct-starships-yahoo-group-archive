@@ -1,0 +1,30 @@
+20000
+"Plankwell","Plankwell","200,000tn Dreadnought","Imperial Architect Service","BB",15,200000.0000,200000.0000,0,1,1,0,8,0.0000,0
+4,10,1,1,0.0000,0,0
+5,4,8,0,0,0,0,0,0,4.0000,0.0000,0,0,0
+28,4,0,0,0,0,0.0000,0,0,0
+20,20,2,0,1,0,2,0,0,2,0,0,2,0,0,0,0,0,0
+1,18
+0,0,0,50,0
+0,0,0,0,80,0,1
+0,0,0,0,0,100,3,10,0,30,2,15,1,100,3,25,400,1,40,1,0,0,0,0,0,1,0
+9,4,0,9,4,0,1,1,0,0.0000
+10,50.0000,"Assorted Small Craft",1,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0,0.0000,0,0.0000,0,0,0
+0,0,0,0,0,847.5,0.0,0,1690,0,0.0000,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0.000,0,0
+0,1000.0000,"Admirals quarters & C3",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0,0
+0,1,0
+Reserved for future expansion
+Reserved for future expansion
+Reserved for future expansion
+J4 M5 Agility-5 The Plankwell illustrates well the compromises that must be 
+made to achieve a strategic (J4) mobility standard. Compare the Plankwell with 
+the Kokirrak; Amour-10 vs 12, Agility-5 vs 6, Meson screen-4 vs 8. None-the-
+less the Plankwell is a capable capital ship.
+
+Added: Backup computers & screens, frozen watch
+Improved Meson screen-4. Increased Small craft numbers to 10.
+
+Fighting Ships pg 40
+Original Crew: 1163
+Original Cost:  150,618.52 MCr (before discounts etc.)
+Original Craft: 5x 50tn Small Craft

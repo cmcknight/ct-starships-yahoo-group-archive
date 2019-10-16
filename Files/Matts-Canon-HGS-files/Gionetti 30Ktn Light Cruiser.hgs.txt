@@ -1,0 +1,41 @@
+20000
+"Gionetti","Gionetti","30000tn Light Cruiser","Imperial Architect Service","FH",15,30000.0000,200000.0000,0,1,1,0,8,0.0000,0
+2,0,1,1,0.0000,0,0
+5,5,9,0,0,0,0,0,0,4.0000,0.0000,0,0,0
+28,5,0,0,0,0,0.0000,0,0,0
+20,20,2,0,1,0,2,0,0,2,0,0,2,0,0,0,0,0,0
+1,9
+0,0,0,1,0
+0,0,0,0,0,0,1
+0,0,200,3,100,50,3,5,0,6,2,3,1,24,3,8,0,0,0,1,1,0,3,1,1,1,1
+9,0,0,9,0,0,1,0,0,0.0000
+5,50.0000,"Assorted Small Craft",1,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0,0.0000,0,0.0000,0,0,0
+0,1,0,0,0,206.0,0.0,0,0,0,0.0000,1,100,0,0,0,0,0,0,0,0,0,0,0,0,0.000,0,0
+0,1000.0000,"Admirals quarters & C3",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0,0
+0,1,0
+Reserved for future expansion
+Reserved for future expansion
+Reserved for future expansion
+J5 M5 Agility 5 gives excellent Strategic range enabling the Light Cruiser to 
+react fast to events as they happen. Smaller than the big battlewagons and 
+with 50% of the ship dedicated to jump fuel, it sacrifices armour, manoeuvre 
+and spinal mount size. However as a Capital ship it is more than a match for 
+any opposition short of a Battle Fleet and it's considerably cheaper to deploy 
+and man than a Battleship. Light Cruisers will be found on deployment 
+throughout the Imperium either alone, in pairs or as the flagship for a task 
+force.
+
+Many commentators have assumed the turret mounted missile batteries are few 
+and large (20x missile-7). However it is a strength of the Gionetti that the 
+configuration may be changed during construction or a refit to better reflect the 
+Captains preferences. Many favour an arrangement useful for swamping the 
+defences of large enemy ships (eg: 100x missile-4) at the cost of sacrificing 
+cargo space for gunnery crew accommodation.
+
+Added: backup computer & screens, 100 Marines (dropped Shipboard 
+Security)
+Changed: Missile batteries to 100x missile-4
+
+Fighting Ships pg 28
+Original Crew: 211
+Original Cost:  22,883.04 MCr (before discounts etc.)

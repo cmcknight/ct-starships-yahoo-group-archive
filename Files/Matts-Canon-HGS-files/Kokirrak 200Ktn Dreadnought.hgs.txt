@@ -1,0 +1,44 @@
+20000
+"Kokirrak","Kokirrak","200,000tn Dreadnought","Imperial Architect Service","BB",15,200000.0000,200000.0000,0,1,1,0,8,0.0000,0
+4,15,1,1,0.0000,0,0
+6,3,10,0,0,0,0,0,0,4.0000,0.0000,0,0,0
+28,3,0,0,0,0,0.0000,0,0,0
+20,20,2,0,1,0,2,0,0,2,0,0,2,0,0,0,0,0,0
+1,18
+0,0,0,20,0
+0,0,0,0,50,50,1
+0,0,0,0,0,200,3,50,0,0,0,0,0,200,3,50,330,1,33,1,0,0,0,0,0,1,0
+9,8,4,9,8,0,1,1,0,0.0000
+10,50.0000,"Assorted Small Craft",1,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0,0.0000,0,0.0000,0,0,0
+0,0,0,0,0,901.0,0.0,0,899,0,0.0000,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0.000,0,0
+1,500.0000,"Admirals quarters & C3",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0,0
+0,1,0
+Reserved for future expansion
+Reserved for future expansion
+Reserved for future expansion
+J3 M6 Agility-6. Whilst Imperial literature claims the Kokirrak class is J4 and 
+meets the navies mobility standard, the evidence against this is 
+significant. Primarily lack of jump fuel capacity, no evidence or sightings of the 
+20,000tn drop tanks otherwise required and no reports of 
+manoeuvres where a J4 capability would have been used. Other 
+misinformation relates to the use of a capital ship as a cargo/troop carrier 
+when dedicated vessels are available to the navy and civilian transports can 
+be impressed into service. Any situation requiring 
+Dreadnoughts to deliver troops or cargo is undoubtedly one where the 
+Dreadnoughts have failed in their primary mission.
+
+Informed speculation ties the twin aspects of redundant cargo space and J4 
+propaganda. Reverse engineering shows this frees up enough 
+space to provide significant benefits to a ship intended for the battle line, 
+specifically better armour, back-up systems and replacement crew.
+
+Changed: Armour-12 to -15, reduced J3 from J4
+Added: Frozen watch, backup computer & screens. Fleet Admirals quarters, 
+staff & c3 (Command, Control, Comms) capability, allowed 500tn
+Removed: 4000tn cargo capacity. Imperial doctrine prefers using 
+Dreadnoughts for combat not as troop transports!
+
+Fighting Ships pg 42
+Original Crew: 1533
+Original Cost:  168,877.76 MCr (before discounts etc.)
+Original Craft: 10x 50tn Small Craft

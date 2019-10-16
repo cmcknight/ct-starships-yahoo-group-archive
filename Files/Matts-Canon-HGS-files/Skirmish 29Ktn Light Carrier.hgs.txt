@@ -1,0 +1,29 @@
+20000
+"Skirmish","Skirmish","29,000tn Light Carrier","Imperial Architect Service","LC",15,29000.0000,100000.0000,0,1,1,0,8,0.0000,0
+4,4,1,1,0.0000,0,0
+2,4,6,0,0,0,0,0,0,4.0000,0.0000,0,0,0
+28,4,0,0,0,0,0.0000,0,0,0
+20,20,2,0,1,0,2,0,0,2,0,0,2,0,0,0,0,0,0
+0,0
+0,0,0,0,0
+0,4,0,0,0,0,1
+0,0,50,3,5,50,3,10,0,50,2,25,1,50,3,5,50,1,5,1,0,0,0,0,0,1,0
+9,0,0,9,0,0,1,0,0,0.0000
+14,50.0000,"Assorted Small Craft",1,0,0.0000,80,50.0000,"Heavy Fighters",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,8,1,50.0000,0,0.0000,0,0,0
+0,0,0,0,0,168.0,0.0,0,0,0,0.0000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.000,0,0
+0,1000.0000,"Admirals quarters & C3",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0,0
+0,1,0
+Reserved for future expansion
+Reserved for future expansion
+Reserved for future expansion
+J4 M2 Agility-2 Intended for a variety of system domination and forward 
+scouting roles the Light Carrier, often grouped with light escorts, can cover a 
+lot of space within a system and overcome light and/or medium tech 
+opposition. 
+
+Added: extra armour, 14 50tn assorted small craft, backup computer & nuclear 
+damper
+
+Fighting Ships pg 34
+Original Crew: 248
+Original Cost:  19,824.58 MCr (before discounts etc.)

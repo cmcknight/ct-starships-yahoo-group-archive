@@ -1,0 +1,60 @@
+From: Jonathan Lupton  <jonathanlupton@hotmail.com>  
+Date: Fri Jun 23, 2000 6:30am  
+Subject: MT Conversions (whats left)  
+
+
+
+Hi,
+
+Still to come are:
+Combat tables
+Fairly straight forward, just time consuming.
+
+Antimatter Power Plants
+I need to do a few calculations to convert the volume based PP's
+to percentage based PP's.
+
+Computers
+The volumes/weights don't match up but MT does have Control Panels
+as well as comps..... I'll try and find a pattern to extend the
+computer table.....
+
+Hull Configs
+I can't find a good way to convert the MT configs and prices to HG.
+Config 0 will be added. An alternative would be to use Book 2 style
+streamlining ie. +10% hull price. with partial streamlining being +5%.
+(the 10% in book 2 also pays for scoops and purifiers but this would
+not be applied to HG).
+This would give the following:
+
+Config  Unstream Partial Full
+1         +10%    +15%    +20%
+2         +0%     +5%     +10%
+3         -5%     +0%
+4         -45%    -40%
+5         -35%    -30%
+6         -30%    -25%    -20%
+7         -50%
+8         +0%
+9         +0%
+
+Whats not coming:
+MT has complex hull calculations (compared to HG) these don't really
+add anything so have been missed.
+MT Hull armour is simply = 3xHG + 40. No need to convert but will be
+useful if you want to convert MT ship designs.
+Jump Drives only cost 3 MCr per ton in MT.
+There are two maneuver drive types in MT Thrusters at 0.7MCr and
+Anti-Grav at 0.5. Adding this would change existing designs.
+Comms and Sensors are added, sensors are too big a change to add to
+HG.
+Optimised Screens would probably change a lot of ship designs and
+so have been left out.
+MT Crew calculations are based on CP's. and I prefer the HG ones
+anyway. They do use crew segments instead of crew USP for combat damage 
+similar to the JTAS article.
+Oh yeah, subordinate craft volumes are calculated as per TCS.
+
+Nearly done.
+
+J.

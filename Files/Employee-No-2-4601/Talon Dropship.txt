@@ -1,0 +1,62 @@
+Ship: Talon
+Class: Talon
+Type: Dropship
+Architect: StellarDream
+Tech Level: 12
+
+USP
+         TT-0104421-630000-00001-0 MCr 80.470 95 Tons
+Bat Bear             1         1   Crew: 1
+Bat                  1         1   TL: 12
+
+Cargo: 2.050 Fuel: 3.800 EP: 3.800 Agility: 4
+Craft: 4 x 8T Ares-class G-Carriers
+Fuel Treatment: Fuel Scoops
+
+Architects Fee: MCr 0.733   Cost in Quantity: MCr 65.816
+
+
+Detailed Description
+  (High Guard Design)
+
+HULL
+95.000 tons standard, 1,330.000 cubic meters, Needle/Wedge Configuration
+
+CREW
+Pilot
+
+ENGINEERING
+Jump-0, 4G Manuever, Power plant-4, 3.800 EP, Agility 4
+
+AVIONICS
+Bridge, Model/2 Computer
+
+HARDPOINTS
+1 Hardpoint
+
+ARMAMENT
+1 Dual Mixed Turret with: 1 Missile Rack (Factor-1).
+
+DEFENCES
+1 Sandcaster in the Mixed Turret, organised into 1 Battery (Factor-3), Armoured Hull (Factor-6)
+
+CRAFT
+4 8.000 ton Ares-class G-Carriers (Crew of 0, Cost of MCr 1.800)
+
+FUEL
+3.800 Tons Fuel (28 days endurance)
+On Board Fuel Scoops, No Fuel Purification Plant
+
+MISCELLANEOUS
+2 Acceleration Couches, 2.050 Tons Cargo
+
+USER DEFINED COMPONENTS
+None
+
+COST
+MCr 74.003 Singly (incl. Architects fees of MCr 0.733), MCr 58.616 in Quantity, plus MCr 7.200 of Carried Craft
+
+CONSTRUCTION TIME
+37 Weeks Singly, 29 Weeks in Quantity
+
+COMMENTS

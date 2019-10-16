@@ -1,0 +1,6 @@
+MB-666 Sparky  MB-A1666J2-887700-45009-0  MCr1257  1900tons
+Bearing                    1     11  1          Crew=27
+batteries                  1     11  1          TL=15
+Passengers=0. Low=14. Cargo=45 Fuel=1200 EP=114 Agility=0
+Note: Book-2 Drives (Z/Z/Z)
+

@@ -1,0 +1,50 @@
+20000
+"Gazelle","Gazelle A","400tn Close Escort","Imperial Architect Service","CE",14,400.0000,100000.0000,0,0,1,0,8,0.0000,0
+4,3,1,1,0.0000,0,0
+4,4,6,0,0,0,0,0,0,4.0000,0.0000,0,0,0
+28,4,0,0,0,0,0.0000,0,0,0
+13,0,0,0,1,0,2,0,0,2,0,0,2,0,0,0,0,0,0
+0,0
+0,0,0,0,0
+0,0,0,0,0,0,1
+0,0,0,0,0,2,3,2,0,0,0,0,1,0,0,0,2,1,2,1,0,0,0,0,0,1,0
+0,0,0,0,0,0,0,0,0,0.0000
+0,50.0000,"Assorted Small Craft",1,0,0.0000,0,50.0000,"Heavy Fighters",2,0,0.0000,1,20.0000,"Assorted Small Craft",1,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0,50.0000,0,0.0000,0,0,0
+0,1,0,0,0,6.0,0.0,0,0,0,0.0000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.000,0,0
+0,1000.0000,"Admirals quarters & C3",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0,0
+0,1,0
+Reserved for future expansion
+Reserved for future expansion
+Reserved for future expansion
+J4 M4 Agility-0 The Gazelle close escort utilises modular construction, part of 
+which is a 100tn modular de-mountable jump fuel tank mounting a remote turret 
+and secured with explosive fittings for 'fast' demounting. This method harks 
+back to the original drop tank experiments, refining the concept eventually to 
+just a cheap disposable drop tank. Still it is popularly thought of as a drop tank, 
+however 'dropping' it requires replacing the modular tank, turret, weapon 
+system and explosive mountings. This takes two weeks of repairs in a Shipyard 
+costing .04 Mcr, before the new tank module with turret, may be mounted at a 
+cost of 3.15 Mcr, taking a further 2 weeks. Needless to say, whilst a very 
+useful 'trick', self inflicted damage will require explanation to a Navy Board of 
+Inquiry.
+
+The Fiery class differs in having a streamlined hull without the explosive fittings. 
+The 100tn fuel tank is still demountable.
+
+Jump capacity is J-4
+Maneouvre Drive is M-4
+Agility-0 is unmodified.
+Power Plant is PP-6 (PP-7 gave no benefits)
+Model 6 computer, no fibre optics, per original.
+Book 2 crew.
+
+Jump Fuel is all internal tankage (picture Drop Tanks permanently fixed, 
+armoured as per hull & mounting a Particle Acellerator Barbette. IMHO they 
+might be fixed using explosive mounts, giving tactical options, but at a huge 
+cost in repairs & loss of the barbette. The gunner would be operating the 
+barbette remotely and therefor safe if it is ejected.)
+
+Fighting Ships pg 14
+Original Crew: 12 (no change)
+Original Cost:  359.3431 MCr (before discounts etc.)
+Original Craft:  One 20-tn gig

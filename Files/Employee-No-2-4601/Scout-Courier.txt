@@ -1,0 +1,57 @@
+Ship: Scout-Courier
+Class: Scout-Courier
+Type: Explorer
+Architect: Martian Mechanics Inc.
+Tech Level: 11
+
+USP
+         S2-11222R1-030000-00001-0 MCr53.4 100 Tons
+Bat Bear             1         1   Crew: 2
+Bat                  1         1   TL: 11
+
+Cargo: 17 Fuel: 22 EP: 2 Agility: 2
+Craft: 1x 2T Martian Mechanics Pavonis Enclosed Air/Raft
+Fuel Treatment: Fuel Scoops and On Board Fuel Purification
+
+Architects Fee: MCr0.5   Cost in Quantity: MCr42.8
+
+
+Detailed Description
+  (High Guard Design)
+
+HULL
+100 tons standard, 1,400 cubic meters, Needle/Wedge Configuration
+
+CREW
+Scout (functions as Pilot/Engineer), Gunner
+
+ENGINEERING
+Jump-2, 2G Manuever, Power plant-2, 2 EP, Agility 2
+
+AVIONICS
+Bridge, Model/1bis Computer
+
+HARDPOINTS
+1 Hardpoint
+
+ARMAMENT
+1 Dual Mixed Turret with: 1 Missile Rack (Factor-1).
+
+DEFENCES
+1 Sandcaster in the Mixed Turret, organised into 1 Battery (Factor-3)
+
+CRAFT
+1x 2-ton Martian Mechanics Pavonis Enclosed Air/Raft (Cost of MCr0.27)
+
+FUEL
+22 Tons Fuel (2 parsecs jump and 28 days endurance)
+On Board Fuel Scoops, On Board Fuel Purification Plant
+
+MISCELLANEOUS
+4 Staterooms, 17 Tons Cargo
+
+COST
+MCr53.7 Singly (incl. Architects fees of MCr0.5), MCr42.5 in Quantity, plus MCr0.27 of Carried Craft
+
+CONSTRUCTION TIME
+38 Weeks Singly, 30 Weeks in Quantity

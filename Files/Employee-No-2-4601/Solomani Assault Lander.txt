@@ -1,0 +1,54 @@
+Ship: Solomani Assault Lander
+Class: Solomani Assault Lander
+Type: Assault lander
+Architect: Solomani Naval Committee
+Tech Level: 13
+
+USP
+         ST-0104422-630000-00002-0 MCr38.4 50 Tons
+Bat Bear             1         1   Crew: 37
+Bat                  1         1   TL: 13
+
+Cargo: 1 Fuel: 2 EP: 2 Agility: 4 Marines: 36
+Fuel Treatment: Fuel Scoops
+
+Architects Fee: MCr0.4   Cost in Quantity: MCr30.7
+
+
+Detailed Description
+  (High Guard Design)
+
+HULL
+50 tons standard, 700 cubic meters, Needle/Wedge Configuration
+
+CREW
+Pilot, 36 Marines
+
+ENGINEERING
+4G Manuever, Power plant-4, 2 EP, Agility 4
+
+AVIONICS
+Bridge, Model/2 Computer
+
+HARDPOINTS
+1 Hardpoint
+
+ARMAMENT
+1 Triple Mixed Turret with: 1 Missile Rack (Factor-2).
+
+DEFENCES
+- 2x Sandcasters in the Mixed Turret, organised into 1 Battery (Factor-3)
+- Armoured Hull (Factor-6)
+
+FUEL
+2 Tons Fuel (28 days endurance)
+On Board Fuel Scoops, No Fuel Purification Plant
+
+MISCELLANEOUS
+37 Acceleration Couches, 1 Ton Cargo
+
+COST
+MCr38.8 Singly (incl. Architects fees of MCr0.4), MCr30.7 in Quantity
+
+CONSTRUCTION TIME
+24 Weeks Singly, 19 Weeks in Quantity

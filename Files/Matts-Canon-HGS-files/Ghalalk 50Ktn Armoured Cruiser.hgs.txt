@@ -1,0 +1,31 @@
+20000
+"Ghalalk","Armoured Cruiser","50 Ktn Armoured Cruiser","Imperial Naval Architects","CA",15,50000.0000,200000.0000,0,1,1,0,8,0.0000,0
+4,5,1,1,0.0000,0,0
+5,4,9,0,0,0,0,0,0,4.0000,0.0000,0,0,0
+28,4,0,0,0,0,0.0000,0,0,0
+20,20,2,0,1,0,2,0,0,2,0,0,2,0,0,0,0,0,0
+2,14
+0,0,0,0,0
+0,0,0,0,40,0,1
+0,0,0,0,0,50,3,5,0,10,2,1,1,14,3,2,0,0,0,1,0,0,0,0,0,1,0
+9,8,0,9,8,0,1,1,0,0.0000
+8,50.0000,"Assorted Small Craft",1,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0,15.0000,0,0.0000,0,0,0
+0,0,0,0,0,330.0,0.0,0,334,0,0.0000,1,200,0,60,60,0,1,0,0,0,0,0,0,0,0.000,0,0
+0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0,0
+0,1,0
+Reserved for future expansion
+Reserved for future expansion
+Reserved for future expansion
+J4 M5 Agility-5 Under-estimated in most literature, the Ghalalk mounts the 
+screens and spinal mount to be a credible threat in the line of battle. As a 
+cruiser, its marine complement, jump range, small craft, cargo capacity and 
+secondary weapons provide the flexibility required to make the Ghalalk a work
+-horse for the Navy.
+
+Added: frozen watch, backup computers & screens, drop capsules
+Changed: Spinal PA-P, Meson screen-8, 10x 50tn assorted small craft
+
+Fighting Ships pg 30
+Original Crew: 245
+Original Cost: 34,919.84 MCr (before discounts etc.)
+Original Craft: 4x 50tn small craft

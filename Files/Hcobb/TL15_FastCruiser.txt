@@ -1,0 +1,6 @@
+Speed is armor, right?
+
+BC-611 Robin Hood BC-K136DJ3-899905-750J9-0  MCr18455.08  19,999 tons
+Bearing                   1   711 4 11 17             Crew=184
+Batteries                 2   722 4 11 17             TL=15
+Passengers=0 Low=93 Cargo=49 Fuel=8,600 EP=2600 Agility=6 No Marines

@@ -1,0 +1,33 @@
+20000
+"Atlantic","Atlantic","75000tn Heavy Cruiser","Imperial Architect Service","CR",15,75000.0000,100000.0000,0,1,1,0,8,0.0000,0
+4,10,1,1,0.0000,0,0
+5,4,9,0,0,0,0,0,0,4.0000,0.0000,0,0,0
+28,4,0,0,0,0,0.0000,0,0,0
+20,20,2,0,1,0,2,0,0,2,0,0,2,0,0,0,0,0,0
+1,13
+0,0,6,0,0
+0,0,0,0,30,0,1
+0,0,0,0,0,210,3,21,0,0,0,0,1,160,3,53,0,0,0,1,0,0,0,0,0,1,0
+9,6,0,9,6,0,1,1,0,0.0000
+8,50.0000,"Assorted Small Craft",1,0,0.0000,0,50.0000,"Heavy Fighters",2,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0,50.0000,0,0.0000,0,0,0
+0,1,0,0,0,398.0,0.0,0,395,0,0.0000,1,200,0,0,0,0,1,0,0,0,0,0,0,0,0.000,0,0
+0,1000.0000,"Admirals quarters & C3",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0,0
+0,1,0
+Reserved for future expansion
+Reserved for future expansion
+Reserved for future expansion
+J4 M5 Agility-5 A multi-role ship, the Atlantic class cruiser can lead battle fleets 
+or task forces, support Dreadnoughts, chase raiders or operate independently. 
+The most glaring omission in official descriptions is the apparent lack of an on
+-board marine task force and supporting small craft, without these the Atlantic 
+has very limited options for surface interaction.
+
+Original in Fighting Ships used 5 hard points too many. Sandcaster Batteries 
+reduced by 2 to compensate.
+Added: backup computer & screens, 200 marines (dropped Security Troops), 
+extra small craft, frozen watch
+
+Fighting Ships pg 32
+Original Crew: 492
+Original Cost:  59,430.89 MCr (before discounts etc.)
+Original Craft: 3x 50tn Assorted Small Craft

@@ -1,0 +1,31 @@
+20000
+"Chrysanthemum","Chrysanthemum","1000tn Destroyer Escort","Imperial Architect Service","DE",15,1000.0000,100000.0000,0,0,1,0,8,0.0000,0
+4,3,1,1,0.0000,0,0
+6,4,9,0,0,0,0,0,0,4.0000,0.0000,0,0,0
+28,4,0,0,0,0,0.0000,0,0,0
+20,0,0,0,1,0,2,0,0,2,0,0,2,0,0,0,0,0,0
+0,0
+0,0,0,0,0
+0,0,0,0,0,0,1
+0,0,2,3,1,0,0,0,0,1,2,1,1,5,3,5,2,1,1,1,0,0,0,0,0,1,0
+0,0,0,0,0,0,0,0,0,0.0000
+1,50.0000,"Assorted Small Craft",0,0,0.0000,0,50.0000,"Heavy Fighters",2,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0,50.0000,0,0.0000,0,0,0
+0,1,0,0,0,10.0,0.0,0,0,0,0.0000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.000,0,0
+0,1000.0000,"Admirals quarters & C3",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0,0
+0,1,0
+Reserved for future expansion
+Reserved for future expansion
+Reserved for future expansion
+J4 M6 Agility 6. The Chrysanthemum's main role is to support battle fleets. With 
+its balanced mix of turrets and light armour, it also serves well on independent 
+operations either solo or in squadron strength.
+
+Book 2 crew
+Added: Fuel Purification Plant.
+Changed: Armour-3, 5x Sand-5 corrected to 5x Sand-4
+Cutter Pilot is a cross trained crew member.
+
+Fighting Ships pg 14
+Original Crew: 16
+Original Cost:  911.48 MCr (before discounts etc.)
+Original Craft:  One 50-tn cutter

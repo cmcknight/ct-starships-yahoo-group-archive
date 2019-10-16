@@ -1,0 +1,53 @@
+Ship: Section F - 01
+Class: YachtModuleD3
+Type: BasicModule-JumpD3
+Architect: TylersTools
+Tech Level: 15
+
+USP
+         Ym-0400100-000000-00000-0 MCr 33.225 70 Tons
+Bat Bear                           Crew: (0)
+Bat                                TL: 15
+
+Cargo: 0.000 Fuel: 40.700 EP: 0.700 Agility: 0
+
+
+Architects Fee: MCr 0.332   Cost in Quantity: MCr 26.580
+Craft: 2x 6 dton APC's
+
+Detailed Description
+
+HULL
+70.000 tons standard, 980.000 cubic meters, Close Structure Configuration
+(retangular, two fixed Iris doors forward, 22.8m x 6.6m x 6m (2 deck))
+
+CREW
+(none - the starship's engineer services the module's powerplant)
+
+ENGINEERING
+Jump-0, 0G Manuever (No thrusters, drift module), Power plant-1, 0.700 EP, Agility 0
+
+AVIONICS
+No Bridge Installed, No standard computer installed. Dedicated Hard-wired Engineering Computer w/Interface installed as component of power plant tonnage controls module's powerplant and environmental conditions. Module dependent upon starship for standard computer access.
+
+CRAFT
+2x 6dton APC's
+
+FUEL
+40.700 Tons Fuel (0 parsecs jump and 28 days endurance, plus 40.000 tons of additional fuel)
+No Scoops, No Fuel Purification Plant
+
+MISCELLANEOUS
+4.0 Staterooms 
+
+USER DEFINED COMPONENTS
+1 Jump2Drives (6.000 tons, Crew 0, Cost MCr 24.000)
+
+COST
+MCr 33.557 Singly (incl. Architects fees of MCr 0.332), MCr 26.580 in Quantity
+
+CONSTRUCTION TIME
+30 Weeks Singly, 24 Weeks in Quantity
+
+COMMENTS
+In 1077 the firm Section F Mercenaries, Inc, contracted for an Adventurer class starship and a standard yacht module D3. The two double sized staterooms in the ship's main hull were converted into four standard sized staterooms. The old jump-1 drive was removed, the outer hull was modified and the space converted to carry a Lt. APC. Section F Mercenaries has gained a good reputation for completing several high-risk commando tickets.

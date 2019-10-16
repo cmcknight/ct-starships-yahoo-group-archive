@@ -1,0 +1,39 @@
+From: Jonathan Lupton  <jonathanlupton@hotmail.com>  
+Date: Thu Jun 22, 2000 5:29am  
+Subject: MT Turrets Full table  
+
+
+
+Turrets
+
+                    Beam  Pulse Plas Fus  Sand               Meson
+USP         Missile Laser Laser Gun  Gun  Caster  PA  Disint Gun
+1              1     1     1     1     -     1     1     1     1
+2              3     2     3     4     -     3     2     4     2
+3              6     3     6    10     -     6     4    10     4
+4             12     6    10    16     1     8     6    16     6
+5             18    10    21    20     4    10     8    20     8
+6             30    15    30     -    10    20    10     -    10
+7              -    21     -     -    16    30     -     -     -
+8              -    30     -     -    20     -     -     -     -
+
+TL Avail:      7     7     7    10    12     7    14    18    16
+EP:            0     1     1     1     2     0     5    20    15
+TL Modif +1:  13+   13+   13+   11+   12+    8+   15+    -    17+
+TL Modif +2:  21+   16+   16+   12+   17+   10+   16+    -    18+
+TL Modif +3:   -     -     -    16+    -    16+   18+    -    20+
+Weight:        1     1     1     2     2     1     *     2     #
+Cost:          0.75  1     0.5   1.5   2     0.25  **    5     ##
+Max Per Turret 3     3     3     2     2     3     1     2     1
+
+* Weight is 5t at TL14, 3t at 15, 2t at 16 and 1t at 18.
+** Cost is 4MCr at TL14, 3MCr at 15+
+# Weight is 5t at TL16, 3t at 17, 2t at 18 and 1t at 20.
+## Cost is 8MCr at TL16, 6MCr at 17+
+
+Meson Guns are not from MT and so should be treated as an
+optional rule for now.
+Repulsor Turrets should be available at higher tech levels,
+Anyone got any suggested stats?
+
+J.

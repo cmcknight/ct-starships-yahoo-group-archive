@@ -1,0 +1,62 @@
+Ship: Seeker
+Class: Seeker
+Type: Seeker
+Architect: Martian Mechanics Inc.
+Tech Level: 11
+
+USP
+         J2-11222R1-000000-10000-0 MCr51.6 100 Tons
+Bat Bear                   1       Crew: 2
+Bat                        1       TL: 11
+
+Cargo: 27 Fuel: 22 EP: 2 Agility: 1 Pulse Lasers
+Fuel Treatment: Fuel Scoops and On Board Fuel Purification
+
+Architects Fee: MCr0.5   Cost in Quantity: MCr41.3
+
+
+Detailed Description
+  (High Guard Design)
+
+HULL
+100 tons standard, 1,400 cubic meters, Needle/Wedge Configuration
+
+CREW
+Pilot, Gunner
+
+ENGINEERING
+Jump-2, 2G Manuever, Power plant-2, 2 EP, Agility 1
+
+AVIONICS
+Bridge, Model/1bis Computer
+
+HARDPOINTS
+1 Hardpoint
+
+ARMAMENT
+1 Single Pulse Laser Turret organised into 1 Battery (Factor-1)
+
+DEFENCES
+None
+
+CRAFT
+None
+
+FUEL
+22 Tons Fuel (2 parsecs jump and 28 days endurance)
+On Board Fuel Scoops, On Board Fuel Purification Plant
+
+MISCELLANEOUS
+2 Staterooms, 27 Tons Cargo
+
+COST
+MCr52.1 Singly (incl. Architects fees of MCr0.5), MCr41.3 in Quantity
+
+CONSTRUCTION TIME
+38 Weeks Singly, 30 Weeks in Quantity
+
+COMMENTS
+The Seeker is a Type-S2 Scout/Courier modified for astroid prospecting and mining work.
+The Air/Raft, two of the staterooms and some of the crew space have been removed to allow for
+a larger cargo bay. The Seeker's cargo bay is loaded from the rear acess door/ramp, which is 
+9 meters wide and 3 meters high.

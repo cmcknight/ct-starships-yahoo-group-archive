@@ -1,0 +1,5 @@
+MB-1776 RI  MB-A1566H2-E86600-45009-0  MCr1511  1900tons
+Bearing                 1     11  1          Crew=27
+batteries               1     11  1          TL=14
+Passengers=0. Low=14. Cargo=121 Fuel=1010 EP=114 Agility=0
+Note: Book-2 Drives (Z/Z/Z) and declare emergency agility every turn.

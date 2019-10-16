@@ -1,0 +1,29 @@
+20000
+"Kinunir","Colonial Cruiser","1250tn Colonial Cruiser","Imperial Naval Architects","CC",15,1250.0000,200000.0000,0,1,1,0,8,0.0000,0
+2,0,1,1,0.0000,0,0
+4,4,7,0,0,0,0,0,0,4.0000,0.0000,0,0,0
+28,4,0,0,0,0,0.0000,0,0,0
+16,0,0,0,1,0,2,0,0,2,0,0,2,0,0,0,0,0,0
+0,0
+0,0,0,0,0
+0,0,0,0,0,0,1
+0,0,2,3,2,8,2,2,0,0,0,0,1,0,0,0,2,1,2,1,0,0,0,0,0,1,0
+4,0,1,0,0,0,0,0,0,0.0000
+0,50.0000,"Assorted Small Craft",1,0,0.0000,0,50.0000,"Heavy Fighter",0,0,0.0000,1,35.0000,"Pinnace",1,0,21.7000,3,4.0000,"Air-raft",0,1,0.6000,1,10.0000,"Grav APC",0,0,9.3000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0,50.0000,0,0.0000,0,0,0
+0,1,0,0,0,38.5,0.0,0,0,0,0.0000,1,35,0,0,0,0,0,0,0,0,0,0,0,0,0.000,0,0
+1,12.5000,"Armour for Armour-0",0,0.0000,3.6000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0,0
+0,1,0
+Reserved for future expansion
+Reserved for future expansion
+Reserved for future expansion
+J4 M4 Agility-1 A famous if ill-fated design.
+
+Corrected: Nuclear Damper-4, Missile-3
+Armour-0 costs 12.5tn & 3.6MCr
+
+Fighting Ships pg 19
+Original Crew: 45
+Original Cost: 1349.99 MCr (before discounts etc.)
+High Guard 2,  pg51 
+Nuclear Damper-5 (stats = ND-4)
+Missile factor-2 (TL15 = -3)

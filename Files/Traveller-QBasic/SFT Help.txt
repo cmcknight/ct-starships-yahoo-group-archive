@@ -1,0 +1,8 @@
+This little program just puts a little flesh to the UPP. It uses the Standard world UPP and fleshes it out.
+
+Whats the weather, how dense is the traffic etc.
+
+Put both files in the same directory and start SFT.bas with Qbasic. Then enter the worldname and press ENTER. Press H for help
+
+Have fun
+Peter

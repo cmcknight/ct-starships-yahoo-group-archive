@@ -1,0 +1,866 @@
+A Observers Guide to Bk5 Canon Ships
+
+Author: Matt Stevens
+Contact: Matt@stevens.net.nz
+Updated: 24 June 09
+
+*** Disclaimer & Feedback
+Traveller copyright and trademarks are held by Far Future Enterprises. This is a derivative work, not for profit, intended for the free enjoyment of Traveller fans. Purchase of Classic Traveller books 1-3, 5, Adventure 5 and Supplement 9 is recommended to make full use of this document. Visit the Far Future Enterprises website for purchases.
+
+Feedback is welcome, the source document will reside on the CT-starships forum. If posted elsewhere, please ensure the above disclaimer, this authors name and email address is displayed.
+
+*** Introduction
+Canon ships are famous for their non-compliance to Canon ship building rules. This has been an exercise in establishing discrepancies in 
+Supplement 9, "Fighting Ships" as compared to the ship construction rules in Book 5 "High Guard". Invariably the authors version of 'the 
+correct' ship will vary from the readers. To assist the reader in forming their own opinions, a High Guard Shipyard (HGS) file is supplied for each ship.
+
+One, perhaps generous interpretation is that Fighting Ships reflects the Imperial Navies miss-information campaign. Obviously ship 
+capabilities are top secret and it should be no surprise that public documents contain deliberate inaccuracies. In that vein, this document 
+represents perhaps, only the views of a self-proclaimed naval expert. However those views are explained and ultimately it is up to the reader 
+to decide.
+
+*** Excluded & Common Errors
+Of the ships in Supplement 9, "Fighting Ships" several ships are noted as being Book 2 Designs, these are excluded from this discussion.
+
+The most common errors in Fighting Ships, are;
+Crew Calculations - generally 30% to 50% under High Guard requirements
+Suggested prices in general are too high.
+J3 ships described in text as J4, adherence to the Imperiums J4 M6 stated fleet manoeuvre standard, is 'loose'.
+Batteries Bearing are often incorrect
+Assumption that turret batteries always default to the largest battery. (ie: missile-7 batteries)
+
+*** Interesting rules use;
+Heavy Fighter crew use accommodation in their fighters, consequently they are excluded from frozen watch calcs.
+The original Azhanti High Lightening (FI) 'works' if the design utilizes the fuel within the fuel shuttles to satisfy J5 & pp fuel needs
+The Gazelle drop tank adding displacement sufficient to allow an extra hardpoint. This requires a rethink, is it really a 'drop tank' in the conventional sense...
+
+*** Debateable Rules use;
+Armour-0 is free. There are two schools of thought, one that Armour-0 = no armour at all (ie: just a very thin hull skin) and is free, the other that Armour-0 = basic armour for ship operations (vs radiation, micrometeorites & minor knocks) and costs in tons & MCr. For the full debate, just ask on CT-starships :-) My personal view is probably obvious, but we have all been using Armour-0 is free for many years.
+
+The ships listed here, I have included the cost of Armour-0. Just assume its cargo space it you prefer or just delete it in HGS (F12 section).
+   Kininur
+
+*** High Guard Shipyard utility, credit to Andrew
+HGS v1.14 can be found in the Files section of the yahoo group CT-Starships. As at the time of writing, it is the most recent version.
+Known errors in HGS:
+   0.   f7 tab, 50tn bays. TL15 50tn Repulsor bays are showing as #3 rather than #5. It does show the correct stat on the data card.
+   1.   Purification Plants do not take into account Drop Tank Fuel. Drop tanks do not need to be dropped.
+   2.   Turrets batteries fill up all turrets, using more Mcr & EP's than necessary in some circumstances. (eg: Beam-5 requires 10 Beam Lasers, 
+HGS allocating with 4 triple turrets forces 12 Beam lasers to be purchased rather than 10 plus 2 empty mounts.)
+   3.   Set small craft bridge = yes, book 2 crew, options-autocalc accommodations = y & one crew (pilot).  Couches autocalc to -1.
+   4.   Mixed turrets = y, does not reset turrets menu. Can result in the exported USP showing shadow batteries. Set ton = 50, turret = 1x single
+turret beam. Then set mixed turrets = y, set one double turret, one sand, one missile. Ship card is ok. Export USP adds 1 laser battery factor-0
+   5.   Crew settings "Other". Autocalc accomodations ignores "Other" when setting crew accomodations "Actual" (not "Minimum" but "Actual").
+   6.   Won't allow mixed turrets with standard turrets.
+   7.   Emergency low berths not charged for in small craft.
+   8.   Mixed turrets, set laser "number" to 1. Click "ok" then re-open (f8), lasers reset to factor 0. Ships card reads ok.
+   9.   Staterooms, no option to not have staterooms in large craft. eg 400tn fuel shuttles or 1200tn assault landers.
+   10. Fractional PP not supported, forces PP to reflect an arbitrary stat not the ships EP needs  (USP factor is the fractional PP rounded down)
+   11. Mixed turrets get 1 gunner per turret, should require 1 gunner per battery. (Differant rules for small craft)
+   12. User defined components should be listed in Ship card & exported USP
+   13. Low berths cost 150,000Cr, should be 50,000Cr
+   14. Refit option doesn't work
+reported 300509
+   15. Mixed turrets  should include mixed Energy Weapon turrets (ie: Fusion gun + Sandcaster)
+reported circa 150609
+   16. Spinal mounts, PA or Meson checked, but no weapon chosen, leads to 1 BB factor-0 spinal mount shown in exported USP.
+   17. Passenger staterooms, should include a double occupancy option for Navy personel in transit
+   18. Related to error 5. Switch autocalc crew accomodation to off. If supplied staterooms are too low, but within the number of 'other' crew from the minimum, then the warning 'Invalid Design' does not come up.
+   19. Choice of Armour rules interpretation, Armour-0 is free and Armour-0 costs.
+   20. "Insufficienr small craft couches" prevents the user leaving the accomodation screen until resolved (unlike other issues)
+   21. Optional Small Craft hangers in Dispersed Structure designs
+
+
+_______________________________________________________
+Contents
+
+Gig - TL13 - 20tn Gig
+Troop Transport - TL15 - 50tn Troop Transport
+HF - TL15 - 50tn Heavy Fighter
+SDB - TL15 - 200tn System Defence Boat 
+Donosev - TL15 - 400tn Survey Scout
+Courier - TL15 - 400tn Fleet Courier
+Gazelle - TL14 - 400tn Close Escort
+Chrysanthemum - TL15 - 1000tn Destroyer Escort
+Fer-de-lance - TL15 - 1000tn Destroyer Escort
+Kinunir - TL15 - 1250tn Colonial Cruiser
+Fleming (GF) - TL14 - 2Ktn Medical Auxiliary
+Midu Agashaam - TL15 - 3000tn Fleet Destroyer
+PF Sloan - TL15 - 5000tn Fleet Escort
+Jump Ship - TL15 - 5000tn Jump Ship
+Girianis (GF) - TL15 - 10Ktn Hospital Ship
+Skirmish - TL15 - 29Ktn Light Carrier
+Gionetti - TL15 - 30Ktn Light Cruiser
+Empress Tyoyhune - TL15 - Planetoid Monitor
+Arakoine - TL15 - 50Ktn Strike Cruiser
+Ghalalk - TL15 - 50Ktn Armoured Cruiser
+Azhanti High Lightning - TL14 - 50Ktn Frontier Cruiser
+Atlantic - TL15 - 75Ktn Heavy Cruiser
+Wind - TL15 - 75Ktn Strike Carrier
+Antiama - TL15 - 100Ktn Fleet Carrier
+Plankwell - TL15 - 200Ktn Dreadnought
+Kokirrak - TL15 - 200Ktn Dreadnought
+Tigress - TL15 - 500Ktn Dreadnought
+
+
+_______________________________________________________
+Small Craft
+
+*** Gig - TL13 - 20tn Gig
+USP
+         TT-0205501-000000-00000-0    MCr 9.775    20 Tons
+      Bat Bear                                                               Crew: 1
+      Bat                                                                        TL: 13
+
+Cargo: 8.700 Fuel: 1 EP: 1 Agility: 5
+Fuel Treatment: Fuel Scoops
+Architects Fee: MCr 0.098   Cost in Quantity: MCr 7.820
+
+Notes:
+J0 M5 Agility-5 Utility craft, used on the Gazelle & Fiery class Close Escorts and elsewhere.
+Bridge, no computer
+Couches for 2 passengers
+
+Fighting Ships pg 27
+Original Crew: 1
+Original Cost: 9.87275 MCr (before discounts etc.)
+
+*** Troop Transport - TL15 - 50tn Troop Transport
+USP
+         TT-0203302-230000-00002-0    MCr 17.025    50 Tons
+      Bat Bear            1                 1                               Crew: 1
+      Bat                     1                 1                               TL: 15
+
+Cargo: 14 Fuel: 1.500 EP: 1.500 Agility: 3 Pulse Lasers
+Fuel Treatment: Fuel Scoops
+Architects Fee: MCr 0.170   Cost in Quantity: MCr 13.620
+
+Notes:
+J0 M3 Agility-3 Original design with a bridge allows only 6tn cargo. A computer-1 & control couch adds 1Mcr to the cost, but allows 14tn 
+cargo capacity.
+Couches for 50 passengers/troops
+Changed: dropped bridge, added computer-1 & small craft couch, cargo 14tn
+
+Fighting Ships pg 24
+Original Crew: 2
+Original Cargo: 10tn, used for transporting Troop vehicles, heavy weapons, supplies, etc.
+Original Cost: 16.0085 MCr (before discounts etc.)
+
+
+*** HF - TL15 - 50tn Heavy Fighter
+USP
+         FH-0106N61-830000-20002-0    MCr 130.350    50 Tons
+      Bat Bear             1         1      1                                 Crew: 2
+      Bat                      1         1      1                                 TL: 15
+
+Cargo: 0 Fuel: 11 EP: 11 Agility: 6 Pulse Lasers
+Fuel Treatment: Fuel Scoops
+Architects Fee: MCr 1.304   Cost in Quantity: MCr 104.280
+
+Notes:
+M6 Agility-6 Computer-6 makes the FH in numbers, more than a match for most armed opponents short of capital ships at higher tech levels. 
+The two small craft staterooms enables the crew to undertake long patrols as well as provide comfortable accommodation for the two crew 
+whom live on board permanently, removing the need to provide accommodation on the carrier. Another effect is that frozen watch calcs ignore the crafts crew...
+
+No Bridge - computer-7 reduced to computer-6..
+2 Crew & 2 small craft staterooms.
+Changes: 2 Small Craft staterooms instead of one double occupancy 
+stateroom. Pulse laser instead of Beam.
+
+Fighting Ships pg 26
+Original Crew: 2 (no change)
+Original Cost:  131.6636 MCr (before discounts etc.)
+
+
+_______________________________________________________
+Big Craft
+
+*** SDB - TL15 - 200tn System Defence Boat 
+USP
+         SDB-2106E91-F00000-40003-0    MCr 332.050    200 Tons
+      Bat Bear                           1     1                                  Crew: 6
+      Bat                                    1     1                                  TL: 15
+
+Cargo: 9 Fuel: 28 EP: 28 Agility: 6
+Fuel Treatment: Fuel Scoops
+Architects Fee: MCr 3.321   Cost in Quantity: MCr 265.640
+
+Notes:
+J0 M6 Agility-6 At tech 15 SDB's get very, very capable. Sporting the best computer, armour and agility possible, combined with the ability to 
+remain a threat for extended periods, this SDB variant is the ideal. However not many systems can support a tech 15 SDB...
+
+Added: 10tn missile magazine, 9tn cargo capacity (provisions), individual 
+staterooms, Armour-15
+
+Fighting Ships pg 25
+Original Crew: 5
+Original Cost: 318.1803 MCr (before discounts etc.)
+
+
+*** Donosev - TL15 - 400tn Survey Scout
+USP
+         SZ-4732352-000000-00000-0    MCr 188.190    400 Tons
+      Bat Bear                                                                  Crew: 14
+      Bat                                                                           TL: 15
+
+Cargo: 24 Fuel: 132 EP: 12 Agility: 2
+Craft:, 3 x 4T Air/rafts, 1 x 50T Modular Cutter, 1 x 30T Cutter Module
+Fuel Treatment: On Board Fuel Purification
+Architects Fee: MCr 1.882   Cost in Quantity: MCr 150.552
+
+Notes:
+Used by the Imperial Scout Service to update the Grand Survey and maintain navigational aids. Usually operating within Imperial borders the 
+Survey Scout is typically unarmed. If purchasing a Donosev privately, shop around...
+
+Book 2 crew.
+20tn Survey & databank module included plus 8 Survey specialists
+14 single occupancy staterooms
+Cutter modules: 1x Cargo/Passenger 1x Fuel Skim module
+
+Fighting Ships pg 13
+Original Crew: 10
+Original Cost:  263.8221 MCr (before discounts etc.)
+
+*** Courier - TL15 - 400tn Fleet Courier
+USP
+         FF-4162661-000000-50004-0    MCr 317.440    400 Tons
+      Bat Bear                       1      1                                 Crew: 8
+      Bat                                1      1                                 TL: 15
+
+Cargo: 1 Passengers: 3 Fuel: 264 EP: 24 Agility: 2
+Fuel Treatment: Fuel Scoops and On Board Fuel Purification
+Architects Fee: MCr 3.174   Cost in Quantity: MCr 253.952
+
+Notes:
+J6 M2 Agility-2 The 60% internal jump fuel gives the Fleet Courier the best possible jump speed, ensuring news, orders and key personal get 
+to their destinations in the shortest possible time. A pool of Fleet Couriers is attached to each fleet and naval base, with couriers constantly 
+moving between Fleet pools as they deliver their charges. Whilst armed for self defence, use as combat or recon ships is frowned upon. 
+
+Book 2 crew.
+Batteries reduced to 2, to reduce crew requirement.
+Passengers reduced to 3. (6 if double bunked).
+
+Fighting Ships pg 20
+Original Crew: 5
+Original Cost:  318.1803 MCr (before discounts etc.)
+
+*** Gazelle - TL14 - 400tn Close Escort
+USP
+         CE-4444662-300000-40100-0    MCr 354.068    400 Tons
+      Bat Bear                       2  2                                     Crew: 12
+      Bat                                2  2                                     TL: 14
+
+Cargo: 1 Fuel: 184 EP: 24 Agility: 0
+Craft:, 1 x 20T Assorted Small Craft
+Fuel Treatment: Fuel Scoops and On Board Fuel Purification
+Architects Fee: MCr 3.541   Cost in Quantity: MCr 283.254
+
+Notes:
+J4 M4 Agility-0 The Gazelle close escort utilises modular construction, part of which is a 100tn modular de-mountable jump fuel tank 
+mounting a remote turret and secured with explosive fittings for 'fast' demounting. This method harks back to the original drop tank experiments, refining the concept eventually to just a cheap disposable drop tank. Still it is popularly thought of as a drop tank, 
+however 'dropping' it requires replacing the modular tank, turret, weapon system and explosive mountings. This takes two weeks of repairs in a Shipyard costing .04 Mcr, before the new tank module with turret, may be mounted at a cost of 3.15 Mcr, taking a further 2 weeks. Needless to say, whilst a very useful 'trick', self inflicted damage will require explanation to a Navy Board of Inquiry.
+
+The Fiery class differs in having a streamlined hull without the explosive fittings. The 100tn fuel tank is still demountable.
+
+Jump capacity is J-4, J5 if modular tank is jettisoned at jump, J2 if modular tank is already gone
+Manoeuvre Drive is M-4, M5 if the modular tank is not present.
+Agility-0 is unmodified regardless of modular tank status.
+Power Plant is PP-6 (note, dropping modular tank also drops the 3EP Beam battery)
+Model 6 computer, no fibre optics, per original.
+Book 2 crew.
+
+Jump Fuel is all internal tankage (picture Drop Tanks permanently fixed, 
+armoured as per hull & mounting a triple Beam turret. IMHO they 
+might be fixed using explosive mounts, giving tactical options, but at a huge 
+cost in repairs & loss of the turret. The gunner would be operating the 
+turret remotely and therefore safe if it is ejected.)
+
+Fighting Ships pg 14
+Original Crew: 12 (no change)
+Original Cost:  359.3431 MCr (before discounts etc.)
+Original Craft:  One 20-tn gig
+
+
+*** Chrysanthemum - TL15 - 1000tn Destroyer Escort
+USP
+         DE-A4469J2-340000-05304-0    MCr 868.430    1 KTons
+      Bat Bear             5            11 1                                  Crew: 20
+      Bat                      5            11 1                                  TL: 15
+
+Cargo: 1 Fuel: 490 EP: 90 Agility: 6
+Craft: 1 x 50T Assorted Small Craft
+Fuel Treatment: Fuel Scoops and On Board Fuel Purification
+Architects Fee: MCr 8.684   Cost in Quantity: MCr 694.744
+
+Notes:
+J4 M6 Agility 6. The Chrysanthemum's main role is to support battle fleets. With its balanced mix of turrets and light armour, it also serves 
+well on independent operations either solo or in squadron strength.
+
+Book 2 crew
+Added: Fuel Purification Plant.
+Changed: Armour-3, 5x Sand-5 corrected to 5x Sand-4
+Cutter Pilot is a cross trained crew member.
+
+Fighting Ships pg 14
+Original Crew: 16
+Original Cost:  911.48 MCr (before discounts etc.)
+Original Craft:  One 50-tn cutter
+
+
+*** Fer-de-lance - TL15 - 1000tn Destroyer Escort
+USP
+         DE-A4469J2-000000-50004-0    MCr 852.780    1 KTons
+      Bat Bear                        3      2                                  Crew: 18
+      Bat                                 3      2                                  TL: 15
+
+Cargo: 0 Fuel: 490 EP: 90 Agility: 6
+Craft: 2 x 50T Assorted Small Crafts
+Fuel Treatment: Fuel Scoops and On Board Fuel Purification
+Architects Fee: MCr 8.528   Cost in Quantity: MCr 682.224
+
+Notes:
+J4 M6 Agility-6. Procured to escort unarmed ships in the war zone, which it does admirably with its large offensive armament. However, the 
+Fer-de-lance designers saw fit to ensure it also met Fleet mobility standards, giving rise to speculation that the transport protection role was 
+merely the excuse to raise funding for a new class of escort. Regardless, in practise most Fer-de-lance squadrons are assigned to escorting 
+main battle fleets.
+
+Book 2 crew
+One dedicated cutter pilot, the other is a cross-trained crew member.
+Changed: 4x missile-3 changed to 2x missile-4 (saving crew space)
+
+Fighting Ships pg 15
+Original Crew: 14
+Original Cost:  930.54 MCr (before discounts etc.)
+Original Craft:  Two 50-tn cutters
+
+
+*** Kinunir - TL15 - 1250tn Colonial Cruiser
+USP
+         CC-A2447G2-000410-50203-0    MCr 1,338.607    1.25 KTons
+      Bat Bear                          2 2 2                                      Crew: 71
+      Bat                                   2 2 2                                      TL: 15
+
+Cargo: 52 Fuel: 587.500 EP: 87.500 Agility: 1 Marines: 35
+Craft:, 1 x 35T Pinnace, 3 x 4T Air-rafts, 1 x 10T Grav APC
+Fuel Treatment: Fuel Scoops and On Board Fuel Purification
+Architects Fee: MCr 13.058   Cost in Quantity: MCr 1,077.446
+
+Notes:
+J4 M4 Agility-1 A famous if ill-fated design.
+
+Corrected: Nuclear Damper-4, Missile-3
+Armour-0 costs 12.5tn & 3.6MCr
+
+Fighting Ships pg 19
+Original Crew: 45
+Original Cost: 1349.99 MCr (before discounts etc.)
+High Guard 2,  pg51 
+Nuclear Damper-5 (design stats = ND-4)
+Missile USP factor-2 (design calc gives USP-3)
+
+
+*** Fleming (GF) - TL14 - 2Ktn Medical Auxiliary
+USP
+         QM-B442442-000000-00000-0    MCr 1,528.464    2 KTons
+      Bat Bear                                                                        Crew: 60
+      Bat                                                                                 TL: 14
+
+Cargo: 1 Fuel: 880 EP: 80 Agility: 2 Shipboard Security Detail: 2
+Craft: 4 x 20T Assorted small crafts, 1 x 50T Standard dock
+Fuel Treatment: Fuel Scoops and On Board Fuel Purification
+Architects Fee: MCr 15.285   Cost in Quantity: MCr 1,222.771
+
+Notes:
+From Grand Fleet, Avenger Enterprises.
+
+J4 M2 Agility-2 As a hospital ship, this vessel is unarmed and unarmoured, the carried small craft are 
+likewise unarmed.
+
+The smallcraft are 20tn Gigs with two crew trained as field medics. Capacity for 
+passengers and wounded are included.A standard 50tn dock is included for fast 
+transfer of patients from Imperial 50tn small craft.
+
+The hospital module provides capacity for 100 patients, two surgeries and 
+support facilities operated by 25 medical staff. The 400Mcr price tag is a 
+guestimate based on 1Mcr per ton. 
+
+
+*** Midu Agashaam - TL15 - 3000tn Fleet Destroyer
+USP
+         DD-C246BJ2-052700-50506-0    MCr 2,552.240    3 KTons
+      Bat Bear             3          4  1 1                                     Crew: 59
+      Bat                      3          4  1 1                                     TL: 15
+
+Cargo: 1 Fuel: 1,530 EP: 330 Agility: 6 Marines: 8
+Craft: 2 x 50T Assorted Small Crafts
+Fuel Treatment: Fuel Scoops and On Board Fuel Purification
+Architects Fee: MCr 25.522   Cost in Quantity: MCr 2,041.792
+
+Notes:
+J4 M6 Agility-6 Intended as a Fleet Escort capable of standing in the line of battle, the Midu Agashaam is often deployed during peace at sub-sector level enforcing Imperial Law and showing the flag. Marines are often carried for boarding & inspection tasks.
+
+Added: Detachment of 8 Marines (dropped Shipboard Security detail)
+Changed: Nuclear Damper-4 to Nuclear Damper-7
+
+Fighting Ships pg 16
+Original Crew: 33
+Original Cost:  2,735.975 MCr (before discounts etc.)
+
+
+*** PF Sloan - TL15 - 5000tn Fleet Escort
+USP
+         FE-E3469J2-502200-90009-0    MCr 4,168.260    5 KTons
+      Bat Bear                      3      2                                     Crew: 65
+      Bat                               3      2                                     TL: 15
+
+Cargo: 1 Fuel: 2,450 EP: 450 Agility: 6 Shipboard Security Detail: 5
+Craft: 3 x 50T Assorted Small Crafts
+Fuel Treatment: Fuel Scoops and On Board Fuel Purification
+Backups: 1 x Model/9fib Computer
+Architects Fee: MCr 41.683   Cost in Quantity: MCr 3,334.608
+
+Notes:
+J4 M6 Agility-6 The Fleet Escorts role is to protect high value ships from missile and fighter attack. Relying on the high value ship attracting 
+most of the attention, its weak screens and armour would otherwise prove a major liability. Rarely are Fleet Escorts deployed outside the 
+escort role. 
+
+Added: Fuel Purification Plant & computer backup
+
+Fighting Ships pg 18
+Original Crew: 40
+Original Cost:  4168.16 MCr (before discounts etc.)
+
+*** Jump Ship - TL15 - 5000tn Jump Ship
+USP
+         TJ-E261662-000000-00000-0    MCr 4,098.500    5 KTons
+      Bat Bear                                                                     Crew: 49
+      Bat                                                                              TL: 15
+
+Cargo: 189 Fuel: 3,300 EP: 300 Agility: 1 Shipboard Security Detail: 5
+Fuel Treatment: Fuel Scoops and On Board Fuel Purification
+Architects Fee: MCr 40.985   Cost in Quantity: MCr 3,278.800
+
+Notes:
+J6 M1 Agility-1 A service vessel, the Jump Ship provides highly flexible cargo transport between starports. Capable of carrying 189tn cargo 
+over 6 parsecs, a further 5000tn may be carried within its jump net with a decrease to jump capability corresponding to -1 per 1000tn ton 
+carried (ie: 1000tn = J5, 2000tn=J4, 5000tn=J1).
+
+Errors: Original USP contains error in EP's generated (300 not 3000)
+Additions: Jump net & apparatus, assumed to require 10% of added tonnage, cost double the equivalent hull volume & require crew equal to 
+service crew requirements (500tn, 1,000Mcr, 15 crew).
+
+Fighting Ships pg 22
+Original Crew: 38
+Original Cost: 4171.7545 MCr (before discounts etc.)
+
+
+*** Girianis (GF) - TL15 - 10Ktn Hospital Ship
+USP
+         QH-K442443-000000-00000-0    MCr 7,344.060    10 KTons
+      Bat Bear                                                                        Crew: 287
+      Bat                                                                                 TL: 15
+
+Cargo: 19 Fuel: 4,400 EP: 400 Agility: 2 Shipboard Security Detail: 10
+Craft: 10 x 20T Assorted small crafts, 1 x 50T Standard dock
+Fuel Treatment: Fuel Scoops and On Board Fuel Purification
+Backups: 1 x Model/4 Computer
+Architects Fee: MCr 73.441   Cost in Quantity: MCr 5,875.248
+
+Notes:
+J4 M2 Agility-2 Intended to provide full high tech medical facilities to the Imperiums fighting forces, a Girianus can be found with most major battle and invasion fleets. In peace time the Girianus with its Close Escorts, shows the flag and provides its services to the populations of disadvantaged worlds.
+
+From Grand Fleet, Avenger Enterprises.
+
+As a hospital ship, this vessel is unarmed and unarmoured, the carried small 
+craft are likewise unarmed.
+
+The smallcraft are 20tn Gigs with two crew trained as field medics. Capacity for 
+passengers and wounded are included. A 50tn dock is included for fast 
+transfer of wounded from standard Imperial 50tn craft.
+
+The hospital module provides capacity for 1000 patients, multiple surgeries and 
+support facilities operated by 200 medical staff. The price tag is a 
+guestimate based on 1Mcr per ton. 
+
+
+*** Skirmish - TL15 - 29Ktn Light Carrier
+USP
+         LC-L4426J3-490900-76747-8    MCr 16,616.730    29 KTons
+      Bat Bear           5         AQ545                                     Crew: 331
+      Bat                    5         AR545                                     TL: 15
+
+Cargo: 39 Fuel: 13,340 EP: 1,740 Agility: 2 Shipboard Security Detail: 29
+Craft: 14 x 50T Assorted Small Crafts, 80 x 50T Heavy Fighters, 1 50T Launch Tube
+Fuel Treatment: Fuel Scoops and On Board Fuel Purification
+Backups: 2 x Model/9fib Computers 1 x Factor 9 Nuclear Damper
+Architects Fee: MCr 166.167   Cost in Quantity: MCr 13,293.384
+
+Notes:
+J4 M2 Agility-2 Intended for a variety of system domination and forward scouting roles the Light Carrier, often grouped with light escorts, 
+can cover a lot of space within a system and overcome light and/or medium tech opposition. 
+
+Added: extra armour, 14x 50tn assorted small craft, backup computer & nuclear damper
+
+Fighting Ships pg 34
+Original Crew: 248
+Original Cost:  19,824.58 MCr (before discounts etc.)
+
+*** Gionetti - TL15 - 30Ktn Light Cruiser
+USP
+         FH-M2559J3-060909-960J4-0    MCr 22,739.310    30 KTons
+      Bat Bear             7      1  43 1Y                                      Crew: 406
+      Bat                      8      1  53 1Z                                      TL: 15
+
+Cargo: 81 Fuel: 17,700 EP: 2,700 Agility: 5 Marines: 100
+Craft: 5 x 50T Assorted Small Crafts
+Fuel Treatment: Fuel Scoops and On Board Fuel Purification
+Backups: 2 x Model/9fib Computers 1 x Factor 9 Nuclear Damper
+Substitutions:  Y = 90 Z = 100
+Architects Fee: MCr 227.393   Cost in Quantity: MCr 18,191.448
+
+Notes:
+J5 M5 Agility 5 gives excellent Strategic range enabling the Light Cruiser to react fast to events as they happen. Smaller than the big 
+battlewagons and with 50% of the ship dedicated to jump fuel, it sacrifices armour, manoeuvre and spinal mount size. However as a Capital 
+ship it is more than a match for any opposition short of a Battle Fleet and it's considerably cheaper to deploy and man than a Battleship. Light 
+Cruisers will be found on deployment throughout the Imperium either alone, in pairs or as the flagship for a task force.
+
+Many commentators have assumed the turret mounted missile batteries are few and large (20x missile-7). However it is a strength of the 
+Gionetti that the configuration may be changed during construction or a refit to better reflect the Captains preferences. Many favour an 
+arrangement useful for swamping the defences of large enemy ships (eg: 100x missile-4) at the cost of sacrificing cargo space for gunnery 
+crew accommodation.
+
+Added: backup computer & screens, 100 Marines (dropped Shipboard Security)
+Changed: Missile batteries to 100x missile-4
+
+Fighting Ships pg 28
+Original Crew: 211
+Original Cost:  22,883.04 MCr (before discounts etc.)
+
+*** Empress Tyoyhune - TL15 - 50 Ktn Planetoid Monitor
+USP
+         PX-P9069J3-660600-660J4-2    MCr 19,715.180     50 KTons
+      Bat Bear           Q         G4 1Q                                       Crew: 446
+      Bat                    Z          L5 1Z                                       TL: 15
+
+Cargo: 8,733 Fuel: 4,500 EP: 4,500 Agility: 6 Shipboard Security Detail: 50
+Craft: 5 x 50T Assorted Small Crafts, 20 x 50T Heavy Fighters, 1 50T Launch Tube
+Fuel Treatment: On Board Fuel Purification
+Backups: 2 x Model/9fib Computers 1 x Factor 6 Nuclear Damper
+Substitutions: Z = 30
+Architects Fee: MCr 197.152   Cost in Quantity: MCr 15,772.144
+
+Notes:
+J0 M6 Agility-6  Planetoid Monitors offer cost savings and advantages when facing invading forces, yet their true worth isn't in combat, its in 
+merely existing, forcing the invader to increase the size of their invading fleet considerably or look for easier targets.
+
+Many options exist for arming and equipping monitors. Usually purchased on a budget by cash strapped governments, the specifications are 
+often downgraded even as the vessel is constructed. What remains is a very large, threatening rock, good for government PR and giving 
+invaders a head-ache - hopefully.
+
+Errors: Original USP contains errors in computer, sand, fusion & missile stats.
+Added: 5x 50tn assorted small craft, backup computers & screens.
+
+Plenty of scope for upgrading, making use of the spare space and changing 
+turrets from dual to triple turrets.
+
+Fighting Ships pg 44
+Original Crew: 405
+Original Cost: 21,795.34257 MCr (before discounts etc.)
+Original Craft: 20x 50tn Heavy Fighters
+
+
+*** Arakoine - TL15 - 50Ktn Strike Cruiser
+USP
+         CS-P7349J3-049909-909N9-A    MCr 29,371.680    50 KTons
+      Bat Bear           G      1  3 11Y                                         Crew: 993
+      Bat                    L      1  4 11Z                                         TL: 15
+
+Cargo: 2,251 Fuel: 19,500 EP: 4,500 Agility: 4 Shipboard Security Detail: 50 Marines: 200
+Craft: 20 x 50T Assorted Small Crafts, 100 x 50T Heavy Fighters, 2 50T Launch Tubes
+Fuel Treatment: On Board Fuel Purification.
+Backups: 2 x Model/9fib Computers 1 x Factor 9 Nuclear Damper 1 x Factor 9 Meson Screen
+Substitutions: Y = 32 Z = 40 
+Architects Fee: MCr 293.717   Cost in Quantity: MCr 23,497.344
+
+Notes:
+J3 M4 Agility 4 More a carrier than a cruiser, the Arakoine is not intended for main Fleet Operations. Rather she is a versatile ship intended for System domination missions either ahead of or following the main battle fleets. Supported by Escorts, Troop Transports and Auxiliaries the Strike Cruiser will fight through light system defences and support Imperial Army ground operations with fire support, a Heavy Fighter wing and Marines for surgical strikes. 
+
+Nuclear Damper-9, Meson Screen-9 and a Dispersed Structure gives good defences vs Ground based Missiles and deep Meson sites. An extensive cargo bay may be used by the Imperial Army to initially transport Army elements and after delivery, may be used as an off planet field hospital and supply depot. It should be noted that the Marine and Army areas are segregated with security being provided by Navy Shipboard Security.
+
+Fighting Ships pg 29
+Original Crew: 500 (note that 100 Fighters require 300 crew and maintenance personnel...)
+Original Cost:  35,075.61 MCr (before discounts etc.)
+Original Craft: 100 Heavy Fighters only
+
+
+*** Ghalalk - TL15 - 50Ktn Armoured Cruiser
+USP
+         CA-P4459J3-588900-99P09-0    MCr 35,220.980    50 KTons
+      Bat Bear            2          411 Y                                        Crew: 654
+      Bat                     2          511 Z                                           TL: 15
+
+Cargo: 273 Frozen Watch Fuel: 24,500 EP: 4,500 Agility: 5 Shipboard Security Detail: 50 Marines: 200 Drop Capsules: 60 (plus 60 Ready)
+Craft: 8 x 50T Assorted Small Crafts
+Fuel Treatment: Fuel Scoops and On Board Fuel Purification
+Backups: 2 x Model/9fib Computers 1 x Factor 9 Nuclear Damper 1 x Factor 8 Meson Screen
+Substitutions: Y = 32 Z = 40
+Architects Fee: MCr 352.210   Cost in Quantity: MCr 28,176.784
+
+Notes:
+J4 M5 Agility-5 Under-estimated in most literature, the Ghalalk mounts the screens and spinal mount to be a credible threat in the line of 
+battle. As a cruiser, its marine complement, jump range, small craft, cargo capacity and secondary weapons provide the flexibility required to 
+make the Ghalalk a work-horse for the Navy.
+
+Added: frozen watch, backup computers & screens, drop capsules
+Changed: Spinal PA-P, Meson screen-8, 10x 50tn assorted small craft
+
+Fighting Ships pg 30
+Original Crew: 245
+Original Cost: 34,919.84 MCr (before discounts etc.)
+Original Craft: 4x 50tn small craft
+
+
+*** Azhanti High Lightning - 60 Ktn, TL14 Fleet Intruder - (Refitted to) TL15 Frontier Cruiser
+   Fleet Intruder variant (TL14)
+USP
+         FI-P4525F3-596500-99N09-6    MCr 44,040.004    60 KTons
+      Bat Bear           8          F31 K                                      Crew: 686
+      Bat                   A         K41 Q                                      TL: 14
+
+Cargo: 401.500 Passengers: 50 Frozen Watch Fuel: 31,600 EP: 3,000 Agility: 0 Marines: 150
+Craft: 5 x 40T Assorted Small Crafts, 60 x 15T TL14 Light Fighters, 4 x 400T Fuel Shuttles, 1 15T Launch Tube
+Fuel Treatment: Fuel Scoops and On Board Fuel Purification.
+Backups: 2 x Model/6fib Computers
+Architects Fee: MCr 440.400   Cost in Quantity: MCr 35,232.003
+
+   Frontier Cruiser variant (after refit TL15)
+USP
+         CF-P4525H3-596920-995N6-6    MCr 35,967.480    60 KTons
+      Bat Bear             8         83K1C                                      Crew: 731
+      Bat                     A        A4Q1F                                      TL: 15
+
+Cargo: 1,361 Passengers: 52 Frozen Watch Fuel: 33,000 EP: 3,000 Agility: 0 Shipboard Security Detail: 60 Marines: 150
+Craft: 5 x 40T Assorted Small Crafts, 60 x 15T TL15 Rampart Fighters, 4 x 400T Fuel Shuttles, 2 15T Launch Tubes
+Fuel Treatment: Fuel Scoops and On Board Fuel Purification
+Backups: 2 x Model/8fib Computers 1 x Bridge 1 x Factor 9 Nuclear Damper 1 x Factor 6 Meson Screen
+Architects Fee: MCr 359.675   Cost in Quantity: MCr 28,773.984
+
+   Fuel Shuttle
+USP
+         TY-4201111-000000-00000-0    MCr 85.400    400 Tons
+      Bat Bear                                                                 Crew: 4
+      Bat                                                                          TL: 14
+
+Cargo: 1 Fuel: 354 EP: 4 Agility: 1
+Fuel Treatment: Fuel Scoops
+Architects Fee: MCr 0.854   Cost in Quantity: MCr 68.320
+
+Notes:
+J5 M2 Agility-0 A true multi-role Cruiser the Azhanti as a Fleet Intruder or the refitted Frontier Cruiser, is capable of dealing with most issues it will confront. Not intended for the battle line, the Azhanti in war will engage in asymmetrical warfare utilizing its J5 capability to show the flag, display force to wavering systems and raid supply lines. In peace the Azhanti undertakes political and scientific expeditions.
+
+Much maligned by most commentators seeking to fit the Azhanti into a pure combat role, its capability and flexibility is often over-looked. 
+With the upgrade to TL15 and re-designation as a Frontier Cruiser, the Azhanti with better screens, weapons, fighter complement, passenger/cargo capacity, etc., adds more capability for its missions - provided main fleet battle is not one of those missions.
+
+Supplement 9, Fighting Ships
+Frontier Cruiser named and described, but Fleet Intruder specs given.
+Description declares 620 hard points, it uses 630, but only 600 HP's are allowed under HG2
+   Appears the 3000tn spinal mount was not allowed for in the original designs hardpoint allowance (Supplement 5)
+
+Per Supplement 5, Azhanti High Lightning
+**Fleet Intruder (FI) built at TL14
+   Dropped: backup bridge, 2nd launch tube, 1400tn jump fuel (for J5 uses PP fuel & replenishes 1400tn from full docked fuel shuttles)
+   Armament (FI): spinal PA-N, 24x 50tn missile bays
+   Hardpoints (FI): 3000tn spinal mount, 24 bays, (originally 360 hardpoints, corrected to) 330 hardpoints
+   Triple 6/fib computers
+   150 marines, 1x frozen watch
+   Nuclear Damper-5, Meson Screen-6
+   60x 15tn Light Fighter, 5x 40tn gunboat, 4x 400tn fuel launches
+
+**Frontier Cruiser (CF) extensive refit to TL15
+   Armament (CF): spinal meson gun-N, 24x 50tn PA bays, black globe-2
+   Hardpoints (CF): 2000tn spinal mount, 24 bays, (originally 360 hardpoints, corrected to) 330 hardpoints
+   Triple 8/fib computers & backup bridge
+   150 marines, 1x frozen watch
+   Nuclear Damper-9, Meson Screen-6, Black Globe-2, backup screens.
+   60x 15tn Rampart, 5x 40tn gunboat, 4x 400tn fuel launches
+
+Fighting Ships pg 31
+Original Crew (CF): 395
+Original Cost (CF):  42,797.0532 MCr (before discounts etc.)
+Original Craft (CF): 80x Light Fighter, 4x 400tn fuel shuttles, miscellaneous small craft
+
+
+*** Atlantic - TL15 - 75 Ktn Heavy Cruiser
+USP
+         CR-Q4459J3-A66900-909N9-0    MCr 59,180.810    75 KTons
+      Bat Bear             Y         G  41N                                      Crew: 790
+      Bat                      U        M  61Z                                      TL: 15
+
+Cargo: 2.500 Frozen Watch Fuel: 36,750 EP: 6,750 Agility: 5 Marines: 200
+Craft: 8 x 50T Assorted Small Crafts
+Fuel Treatment: Fuel Scoops and On Board Fuel Purification
+Backups: 2 x Model/9fib Computers 1 x Factor 9 Nuclear Damper 1 x Factor 6 Meson Screen
+Substitutions: U = 53 V = 42 W = 28 X = 60 Y = 40 Z = 30
+Architects Fee: MCr 591.808   Cost in Quantity: MCr 47,344.648
+
+Notes:
+J4 M5 Agility-5 A multi-role ship, the Atlantic class cruiser can lead battle fleets or task forces, support Dreadnoughts, chase raiders or 
+operate independently. The most glaring omission in official descriptions is the apparent lack of an on-board marine task force and 
+supporting small craft, without these the Atlantic has very limited options for surface interaction.
+
+Original in Fighting Ships used 5 hard points too many. Sandcaster Batteries 
+reduced by 2 to compensate.
+Added: backup computer & screens, 200 marines (dropped Security Troops), 
+extra small craft, frozen watch
+
+Fighting Ships pg 32
+Original Crew: 492
+Original Cost:  59,430.89 MCr (before discounts etc.)
+Original Craft: 3x 50tn Assorted Small Craft
+
+
+*** Wind - TL15 - 75Ktn Strike Carrier
+USP
+         SC-Q436AJ3-679909-957E9-8    MCr 53,660.750    75 KTons
+      Bat Bear             K     7  F811R                                     Crew: 851
+      Bat                      R     9  LA11Z                                    TL: 15
+
+Cargo: 1,008 Fuel: 30,000 EP: 7,500 Agility: 6 Marines: 140
+Craft: 20 x 50T Assorted Small Crafts, 80 x 50T Heavy Fighters, 1 50T Launch Tube
+Fuel Treatment: Fuel Scoops and On Board Fuel Purification
+Backups: 2 x Model/9fib Computers 1 x Factor 9 Nuclear Damper 1 x Factor 9 Meson Screen
+Substitutions: Z = 33
+Architects Fee: MCr 536.608   Cost in Quantity: MCr 42,928.600
+
+Notes:
+J3 M6 Agility-6 As a Strike Carrier, like the lighter Strike Cruiser, the Wind is intended to lead a force tasked with suppressing or capturing main worlds. Standard procedure is to jump to the Gas Giant, cover the task force while it refuels and jump in system to the main world for the strike or invasion. The Strike Carrier is an improvement on the Strike Cruiser, being armoured for the refueling run through the Gas Giant, better covering the task force from defending SBD's.
+
+Originally: 770 hard points declared, 740 used, 750 allowed...
+Added: Backup computer & screens. 1x 50tn missile bay, Marines x 140 (dropped Shipboard Security), 20 assorted small craft
+Changed: 10x Fusion-6, 25x sandcaster-7
+
+Fighting Ships pg 35
+Original Crew: 635
+Original Cost:  58,046.825 MCr (before discounts etc.)
+Original Craft: 80x 50tn Heavy Fighter
+
+*** Antiama - TL15 - 100Ktn Fleet Carrier
+USP
+         FC-R4425J4-479909-99999-Z    MCr 50,968.200    100 KTons
+      Bat Bear           W     1 B411V                                      Crew: 1112
+      Bat                     Y     1 G511X                                      TL: 15
+
+Cargo: 173 Fuel: 45,000 EP: 5,000 Agility: 2 Shipboard Security Detail: 100
+Craft: 40 x 50T Assorted Small Crafts, 300 x 50T Heavy Fighters, 3 50T Launch Tubes
+Fuel Treatment: Fuel Scoops and On Board Fuel Purification
+Backups: 2 x Model/9fib Computers 1 x Factor 9 Nuclear Damper 1 x Factor 9 Meson Screen
+Substitutions: V = 42 W = 28 X = 60 Y = 40 Z = 30
+Architects Fee: MCr 509.682   Cost in Quantity: MCr 40,774.560
+
+Notes:
+J4 M2 Agility-2 The Fleet Carrier with its escorts is often allocated to a major battle fleet to supply fighter and small craft support for patrol 
+and screening operations. Whilst the fighter wing is ineffective in main fleet battles vs TL15 capital ships, it should be remembered that most 
+Imperial adversaries are at a technological disadvantage and in many cases the fighter wing is all that is needed.
+
+Added: Backup computers & screens, 40x 50tn small craft, 
+Improved Armour-4 (sufficient to prevent Interior Explosions)
+Changed: 40x Sandcaster-7
+
+Fighting Ships pg 36
+Original Crew: 909
+Original Cost:  51,922 MCr (before discounts etc.)
+Original Craft: 300x 50tn Heavy Fighters
+
+
+
+*** Kokirrak - TL15 - 200Ktn Dreadnought
+USP
+         BB-S436AJ4-F78949-697T9-0  MCr 186,208.650   200 KTons
+      Bat Bear             X     D XXM1X                                 Crew: 1797
+      Bat                      Z     L  ZZ Y 1Z                                 TL: 15
+
+Cargo: 3.500 Frozen Watch Fuel: 80,000 EP: 20,000 Agility: 6 Shipboard Security Detail: 200
+Craft: 10 x 50T Assorted Small Crafts
+Fuel Treatment: Fuel Scoops and On Board Fuel Purification
+Backups: 2 x Model/9fib Computers 1 x Factor 9 Nuclear Damper 1 x Factor 8 Meson Screen
+Substitutions: X = 32 Y = 33 Z = 50
+Architects Fee: MCr 1,862.087   Cost in Quantity: MCr 148,966.920
+
+Notes:
+J3 M6 Agility-6. Whilst Imperial literature claims the Kokirrak class is J4 and meets the navies mobility standard, the evidence against this is 
+significant. Primarily lack of jump fuel capacity, no evidence or sightings of the 20,000tn drop tanks otherwise required and no reports of 
+manoeuvres where a J4 capability would have been used. Other misinformation relates to the use of a capital ship as a cargo/troop carrier 
+when dedicated vessels are available to the navy and civilian transports can be impressed into service. Any situation requiring 
+Dreadnoughts to deliver troops or cargo is undoubtedly one where the Dreadnoughts have failed in their primary mission.
+
+Informed speculation ties the twin aspects of redundant cargo space and J4 propaganda. Reverse engineering shows this frees up enough 
+space to provide significant benefits to a ship intended for the battle line, specifically better armour, back-up systems and replacement crew.
+
+Changed: Armour-12 to -15, reduced J3 from J4
+Added: Frozen watch, backup computer & screens. Fleet Admirals quarters, staff & c3 (Command, Control, Comms) capability, allowed 500tn
+Removed: 4000tn cargo capacity. Imperial doctrine prefers using Dreadnoughts for combat not as troop transports!
+
+Fighting Ships pg 42
+Original Crew: 1533
+Original Cost:  168,877.76 MCr (before discounts etc.)
+Original Craft: 10x 50tn Small Craft
+
+
+*** Plankwell - TL15 - 200Ktn Dreadnought
+USP
+         BB-S4458J4-A74909-967T9-0    MCr 149,517.950    200 KTons
+      Bat Bear             G     T 6AS1@                                     Crew: 1690
+      Bat                      R     Y AFV1U                                     TL: 15
+
+Cargo: 65 Frozen Watch (x2) Fuel: 96,000 EP: 16,000 Agility: 5 Shipboard Security Detail: 200
+Craft: 10 x 50T Assorted Small Crafts
+Fuel Treatment: Fuel Scoops and On Board Fuel Purification
+Backups: 2 x Model/9fib Computers 1 x Factor 9 Nuclear Damper 1 x Factor 4 Meson Screen
+Substitutions: S = 26 T = 32 U = 80 V = 40 W = 215 X = 430 Y = 50 Z = 30 @=52
+Architects Fee: MCr 1,495.180   Cost in Quantity: MCr 119,614.360
+
+Notes:
+J4 M5 Agility-5 The Plankwell illustrates well the compromises that must be made to achieve a strategic (J4) mobility standard. Compare the 
+Plankwell with the Kokirrak; Amour-10 vs 12, Agility-5 vs 6, Meson screen-4 vs 8. None-the-less the Plankwell is a capable capital ship.
+
+Added: Backup computers & screens, frozen watch
+Improved Meson screen-4. Increased Small craft numbers to 10.
+
+Fighting Ships pg 40
+Original Crew: 1163
+Original Cost:  150,618.52 MCr (before discounts etc.)
+Original Craft: 5x 50tn Small Craft
+
+
+*** Tigress - TL15 - 500Ktn Dreadnought
+USP
+         BB-V5368J4-F97909-967T9-Z    MCr 435,067.300    500 KTons
+      Bat Bear            5      B 5R51W                                       Crew: 4934
+      Bat                    A     N AYA1X                                      TL: 15
+
+Cargo: 520 Frozen Watch (x2) Fuel: 190,000 EP: 40,000 Agility: 6 Shipboard Security Detail: 500 Marines: 250
+Craft: 40 x 50T Assorted Small Crafts, 300 x 50T Heavy Fighters, 4 50T Launch Tubes
+Fuel Treatment: Fuel Scoops and On Board Fuel Purification
+Backups: 2 x Model/9fib Computers 1 x Factor 9 Nuclear Damper 1 x Factor 7 Meson Screen
+Substitutions: W = 215 X = 430 Y = 50 Z = 30
+Architects Fee: MCr 4,350.673   Cost in Quantity: MCr 348,053.840
+
+Notes:
+J3 M6 Agility-6 The Tigress is a throwback to a golden age of starfaring where fighter carrying Dreadnoughts ruled the stars and Heavy Fighters in strength could defeat most opponents in the line of battle. In todays age, fighters are redundent when engaging in main fleet battles between high tech forces. Still, they are useful for many other roles, but ordering fighters into the battle line is tantamount to murder.
+
+For the cost of the Tigress, the Imperium can field nearly 3 Plankwell Dreadnoughts or 2 Plankwells and 2 Fleet Carriers with 600 heavy fighters. Obviously the Navies intention for the Tigress is not just another Dreadnought. With the addition of several Fleet Destroyer escorts, a single Tigress is a task force in itself, capable of taking on heavily defended systems. Arguably the Tigress is not a Dreadnought, it is a political statement.
+
+Jump-4 propaganda, again appears to be part of the misinformation campaign generated by the Imperial Navy. 3 parsecs of jump fuel is 
+carried and no sightings of a 50,000tn drop tank has been reported. It is difficult to confirm Navy manoeuvres, but there is no evidence in the 
+public record to support a jump-4 capability.
+
+The re-reinforced Marine Company can be extended by displacing Shipboard Security and using cargo capacity for heavy weapons. Meaning 
+that a Marine Battalion with supporting tanks may be carried for ground operations, supported by the Tigress and 300 heavy fighters. 
+
+Added: Frozen watch x 2, Marines x 250, additional 50tn small craft x 40, a 4th launch tube - allowing the entire fighter compliment to be 
+launched in two turns, back-up computers.
+
+Fighting Ships pg 38
+Original Crew: 4054
+Original Cost:  453,389.2 MCr (before discounts etc.)
+Original Craft: 300x 50tn Heavy Fighters

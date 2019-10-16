@@ -1,0 +1,33 @@
+20000
+"Heavy Fighter","Heavy Fighter","50tn Heavy Fighter","Imperial Architect Service","FH",15,50.0000,200000.0000,0,0,1,0,8,0.0000,0
+1,8,1,1,0.0000,0,0
+6,0,22,0,0,0,0,0,0,4.0000,0.0000,0,0,0
+28,0,0,1,0,0,0.0000,0,0,0
+15,0,0,1,1,0,2,0,0,2,0,0,2,0,0,0,0,0,0
+0,0
+0,0,0,0,0
+0,0,0,0,0,0,1
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,1,1,1,1
+0,0,0,0,0,0,0,0,0,0.0000
+0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0,0.0000,0,0.0000,0,0,0
+0,1,0,0,0,0.0,2.0,2,0,0,0.0000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.000,0,0
+0,1000.0000,"Admirals quarters & C3",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0,0
+0,0,0
+Reserved for future expansion
+Reserved for future expansion
+Reserved for future expansion
+M6 Agility-6 Computer-6 makes the FH in numbers, more than a match for most 
+armed opponents short of capital ships at higher tech levels. The two small 
+craft staterooms enables the crew to undertake long patrols as well as provide 
+comfortable accommodation for the two crew whom live on board permanently, 
+removing the need to provide accommodation on the carrier. Another effect is 
+that frozen watch calcs ignore the crafts crew...
+
+No Bridge - computer-7 reduced to computer-6..
+2 Crew & 2 small craft staterooms.
+Changes: 2 Small Craft staterooms instead of one double occupancy 
+stateroom. Pulse laser instead of Beam.
+
+Fighting Ships pg 26
+Original Crew: 2 (no change)
+Original Cost:  131.6636 MCr (before discounts etc.)

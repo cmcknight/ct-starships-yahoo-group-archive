@@ -1,0 +1,32 @@
+20000
+"Fleming","Medical Auxiliary","2 Ktn Medical Auxiliary","Imperial Architect Services","QM",14,2000.0000,200000.0000,0,1,1,0,8,0.0000,0
+4,0,1,1,0.0000,0,0
+2,4,4,0,0,0,0,0,0,4.0000,0.0000,0,0,0
+28,4,0,0,0,0,0.0000,0,0,0
+9,0,0,0,1,0,2,0,0,2,0,0,2,0,0,0,0,0,0
+0,0
+0,0,0,0,0
+0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+0,0,0,0,0,0,0,0,0,0.0000
+4,20.0000,"Assorted small craft",2,0,0.0000,1,50.0000,"Standard dock",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0,0.0000,0,0.0000,0,0,0
+0,0,0,0,0,32.0,0.0,0,0,0,0.0000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.000,0,0
+1,400.0000,"Hospital module",25,0.0000,400.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0,0
+0,1,0
+Reserved for future expansion
+Reserved for future expansion
+Reserved for future expansion
+From Grand Fleet, Avenger Enterprises.
+
+J4 M2 Agility-2 As a hospital ship, this vessel is unarmed and unarmoured, the 
+carried small craft are 
+likewise unarmed.
+
+The smallcraft are 20tn Gigs with two crew trained as field medics. Capacity for 
+passengers and wounded are included.A standard 50tn dock is included for 
+fast 
+transfer of patients from Imperial 50tn small craft.
+
+The hospital module provides capacity for 100 patients, two surgeries and 
+support facilities operated by 25 medical staff. The 400Mcr price tag is a 
+guestimate based on 1Mcr per ton. 

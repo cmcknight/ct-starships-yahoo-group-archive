@@ -1,0 +1,65 @@
+20000
+"Azhanti High Lightning","Fleet Intruder","60 Ktn Fleet Intruder","Imperial Naval Architects","FI",14,60000.0000,200000.0000,0,1,1,0,8,0.0000,0
+4,5,1,1,0.0000,0,0
+2,5,5,0,0,0,0,0,0,4.0000,0.0000,0,0,0
+28,4,0,0,0,0,4600.0000,0,0,0
+14,14,2,0,1,0,2,0,0,2,0,0,2,0,0,0,0,0,0
+2,13
+0,0,0,0,0
+0,0,0,0,24,0,1
+0,0,0,0,0,190,3,19,0,40,2,4,1,100,3,10,0,0,0,1,0,0,0,0,0,1,0
+5,6,0,0,0,0,0,0,0,0.0000
+5,40.0000,"Assorted Small Craft",0,0,0.0000,60,15.0000,"TL14 Light Fighter",1,0,0.0000,4,400.0000,"Fuel Shuttle",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,6,1,15.0000,0,0.0000,0,0,0
+0,1,0,50,0,396.0,0.0,0,343,0,0.0000,1,150,0,0,0,0,1,0,0,0,0,0,0,0,0.000,0,0
+0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0,0
+0,1,0
+Reserved for future expansion
+Reserved for future expansion
+Reserved for future expansion
+J5 M2 Agility-0 A true multi-role Cruiser the Azhanti as a Fleet Intruder or the 
+refitted Frontier Cruiser, is capable of dealing with most issues 
+it will confront. Not intended for the battle line, the Azhanti in war will engage in 
+asymmetrical warfare utilizing its J5 capability to show the 
+flag, display force to wavering systems and raid supply lines. In peace the 
+Azhanti undertakes political and scientific expeditions.
+
+Much maligned by most commentators seeking to fit the Azhanti into a pure 
+combat role, its capability and flexibility is often over-looked. 
+With the upgrade to TL15 and re-designation as a Frontier Cruiser, the Azhanti 
+with better screens, weapons, fighter complement, 
+passenger/cargo capacity, etc., adds more capability for its missions - provided 
+main fleet battle is not one of those missions.
+
+Supplement 9, Fighting Ships
+Frontier Cruiser named and described, but Fleet Intruder specs given.
+Description declares 620 hard points, it uses 630, but only 600 HP's are 
+allowed under HG2
+   Appears the 3000tn spinal mount was not allowed for in the original designs 
+hardpoint allowance (Supplement 5)
+
+Per Supplement 5, Azhanti High Lightning
+**Fleet Intruder (FI) built at TL14
+   Dropped: backup bridge, 2nd launch tube, 1400tn jump fuel (for J5 uses PP 
+fuel & replenishes 1400tn from full docked fuel shuttles)
+   Armament (FI): spinal PA-N, 24x 50tn missile bays
+   Hardpoints (FI): 3000tn spinal mount, 24 bays, (originally 360 hardpoints, 
+corrected to) 330 hardpoints
+   Triple 6/fib computers
+   150 marines, 1x frozen watch
+   Nuclear Damper-5, Meson Screen-6
+   60x 15tn Light Fighter, 5x 40tn gunboat, 4x 400tn fuel launches
+
+**Frontier Cruiser (CF) extensive refit to TL15
+   Armament (CF): spinal meson gun-N, 24x 50tn PA bays, black globe-2
+   Hardpoints (CF): 2000tn spinal mount, 24 bays, (originally 360 hardpoints, 
+corrected to) 330 hardpoints
+   Triple 8/fib computers & backup bridge
+   150 marines, 1x frozen watch
+   Nuclear Damper-9, Meson Screen-6, Black Globe-2, backup screens.
+   60x 15tn Rampart, 5x 40tn gunboat, 4x 400tn fuel launches
+
+Fighting Ships pg 31
+Original Crew (CF): 395
+Original Cost (CF):  42,797.0532 MCr (before discounts etc.)
+Original Craft (CF): 80x Light Fighter, 4x 400tn fuel shuttles, miscellaneous small 
+craft

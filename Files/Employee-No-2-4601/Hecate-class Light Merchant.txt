@@ -1,0 +1,57 @@
+Ship: Medea
+Class: Hecate
+Type: Light Merchant
+Architect: Martian Mechanics
+Tech Level: 11
+
+USP
+         AL-31222R1-000000-00000-0 MCr150.9 300 Tons
+Bat Bear                           Crew: 5
+Bat                                TL: 11
+
+Cargo: 107 Passengers: 5 Low: 20 Fuel: 66 EP: 6 Agility: 2
+Craft: 1x 4T Air/Raft
+Fuel Treatment: Fuel Scoops and On Board Fuel Purification
+
+Architects Fee: MCr1.5   Cost in Quantity: MCr120.9
+
+
+Detailed Description
+  (High Guard Design)
+
+HULL
+300 tons standard, 4,200 cubic meters, Needle/Wedge Configuration
+
+CREW
+Pilot, Navigator, 2 Engineers, Medic
+
+ENGINEERING
+Jump-2, 2G Manuever, Power plant-2, 6 EP, Agility 2
+
+AVIONICS
+Bridge, Model/1bis Computer
+
+HARDPOINTS
+3 Hardpoints
+
+ARMAMENT
+3 Empty Hardpoints and 3 tons reserved for Fire Control
+
+DEFENCES
+None
+
+CRAFT
+1x 4-ton Air/Raft (Cost of MCr0.6)
+
+FUEL
+66 Tons Fuel (2 parsecs jump and 28 days endurance)
+On Board Fuel Scoops, On Board Fuel Purification Plant
+
+MISCELLANEOUS
+10 Staterooms, 20 Low Berths, 5 Middle Passengers, 20 Low Passengers, 107 Tons Cargo
+
+COST
+MCr151.8 Singly (incl. Architects fees of MCr1.5), MCr120.3 in Quantity, plus MCr0.6 of Carried Craft
+
+CONSTRUCTION TIME
+71 Weeks Singly, 57 Weeks in Quantity

@@ -1,0 +1,142 @@
+House Rules for High Guard.
+
+Energy Allocation: Instead of using the Emergency Agility and Agility
+reduction from power plant hits simply allow each ship to allocate energy
+during the pre-combat step.  Note that each ship's jump capacitors can
+usually start empty or full at the captains option at the start of a battle
+unless special scenario rules require otherwise and that each ship can no
+more than double its power plant output (if not using a black globe) by
+drawing power from capacitors.
+
+Chipping away at armor:  Whenever a 2 is rolled for damage before modifiers
+on the surface explosions table reduce the target's armor tonnage by one
+tenth of the Energy Points this weapon would inflict on a black globe.
+Planetoid hulls lose waste spaces of rock after losing all of their
+external armor and when all of the waste space is gone the ship is
+destroyed.
+
+Example: A 10,000 ton TL13 ship has armor factor 13 and therefore 2,800
+tons of armor.  If struck by a factor 9 nuclear missile and a 2 was rolled
+on the surface explosion table the modified result would be a 15 for a
+Weapon-1 result and in addition the ship would lose 90 tons of armor which
+takes it down to 2,710 tons of armor.  Once it is reduced to 2,600 tons of
+armor it will be at armor factor 12.
+
+Fuel tanks shattered as a critical hit: Exchange the Crew-1 result on the
+critical hit table with the Fuel tanks shattered hit on Interior Explosion.
+
+Meson Screens as Armor: Do not use the meson screen penetration table for
+Meson attacks.  Instead apply the meson screen factor of the target as an
+armor factor against meson attacks, except that automatic critical hits
+from oversized meson attacks are reduced by the full meson screen factor
+rather than half that factor as would be the case with armor against other
+weapon types.
+
+Example: A size class K ship with meson screen factor-9 is struck by a
+factor-S meson gun.  The ship suffers no automatic critical hits and takes
+8 damage rolls on each of the Radiation and Interior Explosion damage tables
+at a +9 modifier and suffers 1 radiation computer-1 result which is ignored
+due to a hardened computer model, 3 weapon-1 results, 2 weapon-2 results, 3
+Screens-1 results, 1 Screens-2 result, 2 Jump-1 results, 1 Power Plant-1
+and 1 interior explosion Computer-1 result which is not ignored.
+
+Configuration as size: Do not use the target configuration penetration
+table for meson attacks.  Instead adjust the target size code for meson
+attacks by its configuration using the following table.
+
+Configuration   Size Code
+7 or 9          -4
+1 or 2          -3
+3               -2
+4 or 6          -1
+5 or 8          +0
+
+So a 4,000 dton ship with a configuration 1 hull would be Size Code D
+normally and no adjustment to hit for most weapons but would be effectively
+Size Code A and hence a -1 to hit by meson guns.  Note that this does not
+change the number of critical hits a ship receives from large meson guns.
+
+Energy Weapons on defense: Energy weapons are also at a -2 to be penetrated
+by missiles.
+
+Gunnery skill: Divide the character's Gunnery skill by two, round down and
+subtract one to find a positive modifier when their battery rolls to hit or
+penetrate and a negative modifier when their battery is resisting
+penetration or rolling damage for a hit they've scored.
+
+Engineering skill: Divide the character's Engineering skill by two, round
+down and subtract one to find a positive modifier the character can apply
+for one repair roll per turn.
+
+Suicide attack: At the start of the Pre-Combat Decision Step the player with
+the initiative if at short range may declare that some of his ships are
+engaging in suicide attacks and designate one target for each.
+
+At the start of the Combat Step before the usual target selection any ships
+that are the subject of suicide attacks may fire at their attackers.  This
+fire is conducted as if the suicide attacker had agility zero and all
+damage from this defensive fire is resolved on the attacking ships before
+they themselves fire.
+
+Then the suicide attacking ships may fire their laser and energy weapon
+batteries at their selected targets, adding the current agility of the
+suicide attacker after damage to its computer factor to hit and penetrate
+defenses and subtracting this agility from the damage roll.  After the
+damage from all suicide attacks is resolved then use the normal procedure
+to resolve the fire of the remaining batteries on all sides.
+
+Time on target: Multiple batteries can launch their missiles to impact on a
+single target at the same time. You can declare any number of missile
+batteries from any of your ships at the same range band to the target as
+engaging in a Time on Target attack. Make one attack as a single battery
+using the smallest missile factor of any of the engaging batteries and the
+smallest computer factor of any of the attacking ships then add a plus one
+to this effective computer factor to hit and penetrate with this attack for
+each doubling of the attacking batteries, up to double the base computer
+factor.
+
+Example: The Pantheress is on a routine patrol when the captain orders the
+entire fighter wing out to make a simulated attack against the ship for
+training.
+
+The 300 heavy fighters have effective computer factors of 6 after adjusting
+for their lack of bridge facilities and so they attack at long range with
+simulated nuclear missiles in 4 time on target groups of 64 for a +6 and
+the remaining 44 fighters combine for a +5 group.
+
+At long range a factor 2 missile battery needs to roll a 6 -computer factor
+12 +computer factor 9 -2 for target size or a 1 or more to hit so all five
+batteries hit.
+
+The Pantheress assigns 1 repulsor bay to each group's hit and they need to
+roll a 22 or greater with a +3 computer modifier to penetrate and they don't.
+
+The next combat round the fighters have the initiative and choose short
+range and simulated suicide attacks with their lasers.
+
+215 of the fighters are defended against with factor-9 conventional
+missiles.  Since they are at effective agility 0 the roll to hit is 2 +1
+for short range -3 for computer difference +2 for target size or a 2 or
+greater and all 215 hit.  The defensive sand factor of 3 fails to stop
+any of these missile hits and so every one of these 215 fighters takes 5
+critical hits (battery - size is 9 minus 4 for armor factor 8) and is
+knocked out.
+
+Another 25 fighters face factor 6 fusion batteries.  These have an adjusted
+to hit roll of 4 and 23 of these hit and easily penetrates sand factor 3 to
+score 2 critical hits.  One of the particle accelerator batteries misses,
+but the other four, the lasers and a simulated attack from the spinal mount
+take out another 10 fighters.
+
+The remaining 53 fighters then make their suicide attacks.  Their factor 2
+lasers need to roll 7 +3 for the computer difference -6 for suicide agility
+-2 for target size +6 for target agility or a 8 or greater to hit and 22 of
+them do.
+
+Five of these hits face factor-9 sand batteries and need a 13 +3 for
+computer -6 for suicide agility or 10 or greater to penetrate and one of
+them does.
+
+A total of 18 simulated damage rolls are made on the surface explosions
+table with a +6 for non-spinal weapon +15 for target armor and -6 for
+suicide agility scoring 6 weapon-1 results and 1 Fuel-1 result.

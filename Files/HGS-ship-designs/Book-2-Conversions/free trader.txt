@@ -1,0 +1,14 @@
+Ship: free trader
+Class: free trader
+Type: free trader
+Architect: Don McKinney
+
+USP
+         tf-2611111-000000-00000-0 MCr 65.238 200 Tons
+Bat Bear                           Crew: 3
+Bat                                TL: 9
+
+Cargo: 82.000 Passengers: 7 Low: 20 Fuel: 22.000 EP: 2.000 Agility: 1
+Fuel Treatment: Fuel Scoops and On Board Fuel Purification
+
+Architects Fee: MCr 0.652   Cost in Quantity: MCr 52.190

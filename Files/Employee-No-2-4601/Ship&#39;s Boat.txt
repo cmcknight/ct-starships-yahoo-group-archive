@@ -1,0 +1,52 @@
+Ship: Ship's Boat
+Class: Ship's Boat
+Type: Ship's Boat
+Tech Level: 9
+
+USP
+         QB-0606601-020000-10000-0 MCr23.9 30 Tons
+Bat Bear             1     1       Crew: 1
+Bat                  1     1       TL: 9
+
+Cargo: 15.2 Fuel: 1.8 EP: 1.8 Agility: 2
+Fuel Treatment: Fuel Scoops
+
+Architects Fee: MCr0.2   Cost in Quantity: MCr19.1
+
+
+Detailed Description
+  (High Guard Design)
+
+HULL
+30 tons standard, 420 cubic meters, Flattened Sphere Configuration
+
+CREW
+Pilot
+
+ENGINEERING
+6G Manuever, Power plant-6, 1.8 EP, Agility 2
+
+AVIONICS
+No Bridge Installed, Model/1 Computer
+
+HARDPOINTS
+1 Hardpoint
+
+ARMAMENT
+1 Dual Mixed Turret with: 1 Beam Laser (Factor-1).
+
+DEFENCES
+1 Sandcaster in the Mixed Turret, organised into 1 Battery (Factor-2)
+
+FUEL
+1.8 Tons Fuel (28 days endurance)
+On Board Fuel Scoops, No Fuel Purification Plant
+
+MISCELLANEOUS
+1 Acceleration Couch, 15.2 Tons Cargo
+
+COST
+MCr24.2 Singly (incl. Architects fees of MCr0.2), MCr19.1 in Quantity
+
+CONSTRUCTION TIME
+16 Weeks Singly, 13 Weeks in Quantity

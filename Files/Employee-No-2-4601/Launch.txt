@@ -1,0 +1,52 @@
+Ship: Launch
+Class: Launch
+Type: Launch
+Tech Level: 9
+
+USP
+         GL-0201101-000000-00000-0 MCr6.8 20 Tons
+Bat Bear                           Crew: 1
+Bat                                TL: 9
+
+Cargo: 12 Fuel: 1 EP: 0.2 Agility: 1
+Fuel Treatment: Fuel Scoops
+
+Architects Fee: MCr0.1   Cost in Quantity: MCr5.4
+
+
+Detailed Description
+  (High Guard Design)
+
+HULL
+20 tons standard, 280 cubic meters, Cone Configuration
+
+CREW
+Pilot
+
+ENGINEERING
+1G Manuever, Power plant-1, 0.2 EP, Agility 1
+
+AVIONICS
+Bridge, No Computer Installed
+
+HARDPOINTS
+1 Hardpoint
+
+ARMAMENT
+1 Empty Hardpoint and 1 ton reserved for Fire Control
+
+DEFENCES
+None
+
+FUEL
+0.2 Tons Fuel (28 days endurance)
+On Board Fuel Scoops, No Fuel Purification Plant
+
+MISCELLANEOUS
+2 Acceleration Couches, 12 Tons Cargo
+
+COST
+MCr6.9 Singly (incl. Architects fees of MCr0.1), MCr5.4 in Quantity
+
+CONSTRUCTION TIME
+11 Weeks Singly, 9 Weeks in Quantity

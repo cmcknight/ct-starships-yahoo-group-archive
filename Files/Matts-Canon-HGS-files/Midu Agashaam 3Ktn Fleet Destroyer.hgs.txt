@@ -1,0 +1,29 @@
+20000
+"Midu Agashaam","Midu Agashaam","3000tn Fleet Destroyer","Imperial Architect Service","DD",15,3000.0000,100000.0000,0,1,1,0,8,0.0000,0
+2,0,1,1,0.0000,0,0
+6,4,11,0,0,0,0,0,0,4.0000,0.0000,0,0,0
+28,4,0,0,0,0,0.0000,0,0,0
+20,0,0,0,1,0,2,0,0,2,0,0,2,0,0,0,0,0,0
+0,0
+0,0,0,0,0
+0,0,1,0,0,0,1
+0,0,6,3,1,8,3,4,0,0,0,0,1,6,3,3,0,0,0,1,0,0,0,0,0,1,0
+7,2,0,0,0,0,0,0,0,0.0000
+2,50.0000,"Assorted Small Craft",1,0,0.0000,0,50.0000,"Heavy Fighters",2,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0,50.0000,0,0.0000,0,0,0
+0,1,0,0,0,32.5,0.0,0,0,0,0.0000,1,8,0,0,0,0,0,0,0,0,0,0,0,0,0.000,0,0
+0,1000.0000,"Admirals quarters & C3",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0,0
+0,1,0
+Reserved for future expansion
+Reserved for future expansion
+Reserved for future expansion
+J4 M6 Agility-6 Intended as a Fleet Escort capable of standing in the line of 
+battle, the Midu Agashaam is often deployed during peace at sub-sector level 
+enforcing Imperial Law and showing the flag. Marines are often carried for 
+boarding & inspection tasks.
+
+Added: Detachment of 8 Marines (dropped Shipboard Security detail)
+Changed: Nuclear Damper-4 to Nuclear Damper-7
+
+Fighting Ships pg 16
+Original Crew: 33
+Original Cost:  2,735.975 MCr (before discounts etc.)

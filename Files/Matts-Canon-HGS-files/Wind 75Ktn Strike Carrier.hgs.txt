@@ -1,0 +1,35 @@
+20000
+"Wind","Strike Carrier","75 Ktn Strike Carrier","Imperial Naval Architects","SC",15,75000.0000,200000.0000,0,1,1,0,8,0.0000,0
+4,6,1,1,0.0000,0,0
+6,3,10,0,0,0,0,0,0,4.0000,0.0000,0,0,0
+28,3,0,0,0,0,0.0000,0,0,0
+20,20,2,0,1,0,2,0,0,2,0,0,2,0,0,0,0,0,0
+1,5
+0,0,0,9,0
+0,0,0,0,33,0,1
+0,0,0,0,0,200,3,20,0,10,2,10,1,100,3,25,10,1,1,1,0,0,0,0,0,1,0
+9,9,0,9,9,0,1,1,0,0.0000
+20,50.0000,"Assorted Small Craft",1,0,0.0000,80,50.0000,"Heavy Fighter",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,8,1,50.0000,0,0.0000,0,0,0
+0,1,0,0,0,428.5,0.0,0,0,0,0.0000,1,140,0,0,0,0,0,0,0,0,0,0,0,0,0.000,0,0
+0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0,0
+0,1,0
+Reserved for future expansion
+Reserved for future expansion
+Reserved for future expansion
+J3 M6 Agility-6 As a Strike Carrier, like the lighter Strike Cruiser, the Wind is 
+intended to lead a force tasked with suppressing or capturing main worlds. 
+Standard procedure is to jump to the Gas Giant, cover the task force while it 
+refuels and jump in system to the main world for the strike or invasion. The 
+Strike Carrier is an improvement on the Strike Cruiser, being armoured for the 
+refueling run through the Gas Giant, better covering the task force from 
+defending SBD's.
+
+Originally: 770 hard points declared, 740 used, 750 allowed...
+Added: Backup computer & screens. 1x 50tn missile bay, Marines x 140 
+(dropped Shipboard Security), 20 assorted small craft
+Changed: 10x Fusion-6, 25x sandcaster-7
+
+Fighting Ships pg 35
+Original Crew: 635
+Original Cost:  58,046.825 MCr (before discounts etc.)
+Original Craft: 80x 50tn Heavy Fighter

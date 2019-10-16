@@ -1,0 +1,7 @@
+It's a pity that I only get agility 3 on the Jump-6 X-Boat
+
+XB-1492 XB-1163661-000000-00003-0  MCr 187  199 tons
+Bearing                       1               Crew=1 or 2
+Batteries                     1               TL=15
+Passengers=0 Low=0 Cargo=1.75 Fuel=131.34 EP=11.94 Agility=3 No Marines
+Includes fuel scoops and purify.

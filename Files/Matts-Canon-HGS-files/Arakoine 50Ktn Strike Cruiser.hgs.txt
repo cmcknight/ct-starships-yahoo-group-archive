@@ -1,0 +1,38 @@
+20000
+"Arakoine","Strike Cruiser","50,000tn Strike Cruiser","Imperial Architect Service","CS",15,50000.0000,100000.0000,0,1,1,0,8,0.0000,0
+7,0,1,1,0.0000,0,0
+4,3,9,0,0,0,0,0,0,4.0000,0.0000,0,0,0
+28,3,1,0,0,0,0.0000,0,0,0
+20,20,2,0,1,0,2,0,0,2,0,0,2,0,0,0,0,0,0
+1,13
+0,0,1,1,0
+0,0,0,0,40,0,1
+0,0,0,0,0,40,3,4,0,0,0,0,1,20,3,20,0,0,0,1,0,0,0,0,0,1,0
+9,9,0,9,9,0,1,1,0,0.0000
+20,50.0000,"Assorted Small Craft",1,0,0.0000,100,50.0000,"Heavy Fighter",2,0,0.0000,0,20.0000,"Assorted Small Craft",1,0,0.0000,0,50.0000,"Troop Transport",2,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,10,2,50.0000,0,0.0000,0,0,0
+0,0,0,0,0,499.5,0.0,0,0,0,0.0000,1,200,0,0,0,0,0,0,0,0,0,0,0,0,0.000,0,0
+0,1000.0000,"Admirals quarters & C3",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0,0
+0,1,0
+Reserved for future expansion
+Reserved for future expansion
+Reserved for future expansion
+J3 M4 Agility 4 More a carrier than a cruiser, the Arakoine is not intended for 
+main Fleet Operations. Rather she is a versatile ship intended for System 
+domination missions either ahead of or following the main battle fleets. 
+Supported by Escorts, Troop Transports and Auxiliaries the Strike Cruiser will 
+fight through light system defences and support Imperial Army ground 
+operations with fire support, a Heavy Fighter wing and Marines for surgical 
+strikes. 
+
+Nuclear Damper-9, Meson Screen-9 and a Dispersed Structure gives good 
+defences vs Ground based Missiles and deep Meson sites. An extensive 
+cargo bay may be used by the Imperial Army to initially transport Army elements 
+and after delivery, may be used as an off planet field hospital and supply 
+depot. It should be noted that the Marine and Army areas are segregated with 
+security being provided by Navy Shipboard Security.
+
+Fighting Ships pg 29
+Original Crew: 500 (note that 100 Fighters require 300 crew and maintenance 
+personnel...)
+Original Cost:  35,075.61 MCr (before discounts etc.)
+Original Craft: 100 Heavy Fighters only

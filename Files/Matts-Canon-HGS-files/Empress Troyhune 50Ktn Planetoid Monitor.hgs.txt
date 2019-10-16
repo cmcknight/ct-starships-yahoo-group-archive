@@ -1,0 +1,39 @@
+20000
+"Empress Troyhune","Planetoid Monitor","50 Ktn Planetoid Monitor","Imperial Naval Architects","PX",15,50000.0000,200000.0000,0,1,1,0,8,0.0000,0
+9,0,1,1,0.0000,0,0
+6,0,9,0,0,0,0,0,0,4.0000,0.0000,0,0,0
+28,0,1,0,0,0,0.0000,0,0,0
+20,20,2,0,1,0,2,0,0,2,0,0,2,0,0,0,0,0,0
+1,9
+0,0,0,0,0
+0,0,0,0,0,0,1
+0,0,90,2,30,100,2,20,0,20,2,5,1,90,3,30,0,0,0,1,0,0,0,0,0,1,0
+6,0,0,6,0,0,1,0,0,0.0000
+5,50.0000,"Assorted Small Craft",1,0,0.0000,20,50.0000,"Heavy Fighter",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,2,1,50.0000,0,0.0000,0,0,0
+0,0,0,0,0,225.5,0.0,0,0,0,0.0000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.000,0,0
+0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0,0
+0,1,0
+Reserved for future expansion
+Reserved for future expansion
+Reserved for future expansion
+J0 M6 Agility-6  Planetoid Monitors offer cost savings and advantages when 
+facing invading forces, yet their true worth isn't in combat, its in merely existing, 
+forcing the invader to increase the size of their invading fleet considerably or 
+look for easier targets.
+
+Many options exist for arming and equipping monitors. Usually purchased on a 
+budget by cash strapped governments, the specifications are often 
+downgraded even as the vessel is constructed. What remains is a very large, 
+threatening rock, good for government PR and giving invaders a head-ache - 
+hopefully.
+
+Errors: Original USP contains errors in computer, sand, fusion & missile stats.
+Added: 5x 50tn assorted small craft, backup computers & screens.
+
+Plenty of scope for upgrading, making use of the spare space and changing 
+turrets from dual to triple turrets.
+
+Fighting Ships pg 44
+Original Crew: 405
+Original Cost: 21,795.34257 MCr (before discounts etc.)
+Original Craft: 20x 50tn Heavy Fighters

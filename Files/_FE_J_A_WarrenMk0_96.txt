@@ -1,0 +1,38 @@
+FE-8008 J.A. Warren FE-146A52-20220000-70700000-0 MCr4009.34 5000 tons
+          batteries                    3 2                       TL=15
+  batteries bearing                    3 2                     Crew=73
+fib computer. Passengers = 0. Low = 0. Fozen Watch = 0.
+Cargo = 28.62 tons. Fuel = 2,502 tons. EP = 500. Agility = 6.
+Hardpoints = 50. 4 assorted vehicles. 3 assorted small craft.
+
+Tonnage:           5,000 tons (standard). 70,000 cubic meters.
+                   Size Mod +2.
+Crew:              Officers = 21. NC0s = 19. Ratings = 33.
+                   Flight/Vehicle Deck = 15.
+Performance:       Jump-4. 6-G. Power Plant-10. EP 500. Aggility 6.
+Electronics:       Model/5 fib computer. Model/4 fib computer.
+Hardpoints:        50 hardpoints
+Armaments:         30 triple beam laser turrets (factor-7)
+                   20 single particle accelerator turrets (factor-7) 
+Defenses:          Nuclear Damper (factor-2). Meson Screen (factor-2).
+                   Superdense Armored hull (factor-2)
+Craft:             3x35-ton pinnaces; 4 air/rafts.
+Fuel Treatment:    Onboard fuel scoops. 2 onboard purification plants.
+Cost:              MCr 4,009.34 standard; MCr 3,608.41 in quantity.
+Construction Time: 36 months singly; 29 months in quantity.
+Comments:          Aashi Shipwright and Design of Riramla
+Delphi/Riramla/1036 is submitting the J. A. Warren-class Fleet Escort
+for consideration per Admiralty's Orders Message # 14630 dated
+08-03-08. This vessel utilizes both laser and particle acclerator
+weapon systems that eliminates the need to carry reloads for 
+expended missile and sandcaster ordnance. A Warren-class escort's
+J-4 range permits the vessel to escort most cruisers on any mission
+profile. In normal space the Warren class can match or exceed many
+cruiser's speed. To add flexibility to raiding missions the wedge
+shaped hull allows the vessel to enter an atmosphere to conduct 
+strafing missions on ground targets or other ground support missions.
+The 28 ton cargo hold can be used for additional supplies for the
+raiding task force.
+
+Design by Tom Rux using HG3 0.96 originally submitted approximately
+5/21/08.

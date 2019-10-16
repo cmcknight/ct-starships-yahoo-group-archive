@@ -1,0 +1,60 @@
+From: Jonathan Lupton  <jonathanlupton@hotmail.com>  
+Date: Tue Jun 20, 2000 10:08am  
+Subject: More MT to HG conversions  
+
+
+
+Hi,
+
+I spent some time at the weekend playing with reverse engineering MT
+weapons, drives, computers etc. back to HG. My idea is to expand
+the HG system to allow for the extra technology in MT without changing
+the core HG system.
+
+Last week I posted a list of turret weapons and said that next would
+be spinal mounts, I have a complete list of spinal mounts now but it's
+still on lots of bits of paper that I need to get typed up onto a
+computer, and I'm watching the football tonight so you'll have to
+wait :)
+
+But in the mean time here's a few other ideas for higher levels of
+tech in HG:
+
+Power Plants:
+Replace the Power Plant table on page 23 with:
+Percent      Tech level
+times     7-8 9-12 13-14 15   16+
+Pn         4   3     2    1  0.86
+
+(0.86 = 6/7)(ish)
+
+Jump Fuel:
+Replace the Jump Drive paragraph in the Fuel Requirements section of page 23 
+with:
+Tech       Percentage of ships tonnage
+Level      per Jump number
+9-16       10%
+17         8%
+18         6%
+19         4%
+20         2%
+21         1%
+
+Hulls are proving a bit tricky, the definitions of streamlining in
+MT don't really match with those in HG. According to my MT Errata
+sheet MT Airframe=HG Streamlined and MT Streamlined=HG Partial
+Streamline. This doesn't seem quite right, HG Partial streamlined
+ships can only skim fuel from GG's. MT Streamline can land on planets.
+
+A better solution may be to allow 4 levels of streamlining:
+1: Nonstreamlined
+2: Partial
+3: Streamlined
+4: Airframe
+
+Airframe isn't much use in HG games unless you invent rules for combat
+within atmospheres.
+
+Comments?
+
+J.

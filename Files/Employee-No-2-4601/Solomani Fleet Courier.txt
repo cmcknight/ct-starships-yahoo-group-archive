@@ -1,0 +1,61 @@
+Ship: Solomani Fleet Courier
+Class: Solomani Fleet Courier
+Type: Fleet Courier
+Architect: Panstellar Inc.
+Tech Level: 13
+
+USP
+         SX-24333S1-040000-00003-0 MCr120.7 200 Tons
+Bat Bear             1         1   Crew: 7
+Bat                  1         1   TL: 13
+
+Cargo: 23 Passengers: 3 Fuel: 66 EP: 6 Agility: 3
+Craft: 1x 20T Solomani Launch
+Fuel Treatment: Fuel Scoops and On Board Fuel Purification
+
+Architects Fee: MCr1.1   Cost in Quantity: MCr98
+
+
+Detailed Description
+  (High Guard Design)
+
+HULL
+200 tons standard, 2,800 cubic meters, Close Structure Configuration
+
+CREW
+Pilot, 2 Engineers, Medic, 2 Gunners, 1 Launch Pilot
+
+ENGINEERING
+Jump-3, 3G Manuever, Power plant-3, 6 EP, Agility 3
+
+AVIONICS
+Bridge, Model/2bis Computer
+
+HARDPOINTS
+2 Hardpoints
+
+ARMAMENT
+1 Triple Missile Turret organised into 1 Battery (Factor-3)
+
+DEFENCES
+1 Triple Sandcaster Turret organised into 1 Battery (Factor-4)
+
+CRAFT
+1x 20-ton Solomani Launch (Crew of 1, Cost of MCr7.2)
+
+FUEL
+66 Tons Fuel (3 parsecs jump and 28 days endurance)
+On Board Fuel Scoops, On Board Fuel Purification Plant
+
+MISCELLANEOUS
+6.5 Staterooms, 3 Middle Passengers, 23 Tons Cargo
+
+COST
+MCr114.7 Singly (incl. Architects fees of MCr1.1), MCr90.8 in Quantity, plus MCr7.2 of Carried Craft
+
+CONSTRUCTION TIME
+57 Weeks Singly, 46 Weeks in Quantity
+
+COMMENTS
+The ship is only partially streamlined; while it may skim fuel from gas giants, only the Launch
+could land on planets with atmospheres.

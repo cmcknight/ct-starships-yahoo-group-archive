@@ -1,0 +1,6 @@
+A TL15 Battlerider example.
+
+BR-1981 Nancy BR-K106KJ3-F99905-999N9-0  MCr13,153  11,000 tons
+Bearing               1   111 1 11114             Crew=127
+Batteries             2   122 1 11114             TL=15
+Passengers=0 Low=62 Cargo=63 Fuel=2,090 EP=2,090 Agility=6 No Marines

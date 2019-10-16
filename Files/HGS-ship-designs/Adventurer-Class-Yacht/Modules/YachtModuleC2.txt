@@ -1,0 +1,61 @@
+Ship: Count Bornelos-01				Class: YachtModuleC2
+Type: BasicModule-Luxury (Personalized)		Architect: TylersTools
+Tech Level: 15
+
+USP
+         Ym-0400100-000000-00000-0 MCr 15.550 70 Tons
+Bat Bear                           Crew: (0)
+Bat                                TL: 15
+
+Cargo: 4.000 Passengers: 12 Fuel: 1.000 EP: 0.700 Agility: 0
+Craft: Grav car, APC, grav cycle
+
+Architects Fee: MCr 0.156   Cost in Quantity: MCr 12.440
+
+
+Detailed Description
+
+HULL
+70.000 tons standard, 980.000 cubic meters, Close Structure Configuration (retangular, two fixed Iris doors forward, 22.8m x 6.6m x 6m (2 deck))
+
+CREW
+(none - the starship's engineer services the module's powerplant)
+
+ENGINEERING
+Jump-0, 0G Manuever(No thrusters, drift module), Power plant-1, 0.700 EP, Agility 0
+
+AVIONICS
+No Bridge Installed. No standard computer installed. Dedicated Hard-wired Engineering Computer w/Interface installed as component of power plant tonnage controls module's powerplant and environmental conditions. Module dependent upon starship for standard computer access. 
+
+CRAFT
+1x 6 dton grav car (enclosed, armored: slug-proof, pressurized), 1X 8 dton armed (varies) grav APC, 1x 2dton grav cycle (enclosed, armored: bullet-proof, pressurized)
+
+FUEL
+0.700 Tons Fuel (0 parsecs jump and 28 days endurance)
+No Scoops, No Fuel Purification Plant
+
+MISCELLANEOUS
+12.0 Staterooms (equivalent), 12 High Passengers (equivalent), 4.000 Tons Cargo
+
+USER DEFINED COMPONENTS
+Customized upper deck layout; standard (v2) lower deck layout; one-way Iris valve installed; armored: bullet-proof interior walls and doors; instructional(3), steward(3), and security(4+) robots
+
+COST
+MCr 15.706 Singly (incl. Architects fees of MCr 0.156), MCr 12.440 in Quantity
+Not including vehicles and robots
+
+CONSTRUCTION TIME
+30 Weeks Singly, 24 Weeks in Quantity
+
+COMMENTS
+In 1081 Count Bornelos contracted for a luxury module and Adventurer class starship. Any visiting nobles quarter in the ship's forward passenger staterooms. The module's customized layout upper deck serves as the private quarters of the Count and his family. His aides occupy the lower deck of the module. The Iris door in the Count's bedroom is a one-way door into the cargo / vehicle bay.
+
+NOTES
+Two instructional robots teach the Count's children (max 4). One instructional robot teaches the aides's children (max 3). Each deck of the module has it's chief steward robot limited to it's deck of service. The third steward robots is less capable than the other two and assists either one with duties. The instructional and chief steward robots has medium security programs running. The last steward has minimum security programming. There are at least four security robots on the ship, protecting the Count and his family, the ship's occupants, and the ship itself. 
+	Armor approximations
+Bullet-proof: impervious to standard rifles, ACR's, pistols, etc.
+Slug-proof: impervious to gauss rifles and guns plus above
+Laser-proof: impervious to laser fire plus above
+FGMP-proof: impervious to FGMP-15 plus above
+
+c. Cary Tyler 2004

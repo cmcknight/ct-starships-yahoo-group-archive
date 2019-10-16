@@ -1,0 +1,41 @@
+10514
+"Chatl ","Chatl Leader Scout","Leader Scout","FASA","SL",14,150.0000,144.1500,0,0,1,0,0,0,0
+1,7,1,1,0,0,0
+3,4,5,0,0,0,0,0,0
+28,4,0,1,0,0,0.0000,0,0,0
+9,0,0,0,1,0
+0,0
+0,0,0,0,0
+0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,2,0,1
+0,0,0,0,0,0,0,0,0,0.0000
+0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0,0.0000,0,0.0000,0,0,0
+0,1,0,0,0,2.0,0.0,0,0,0,0.0000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0,0
+0,0,0
+Reserved for future expansion
+Reserved for future expansion
+Reserved for future expansion
+The original Zhodani Class Chatl leader Scout was described as being:
+
+SL-11535C1-730000-30000-0  MCr 119.24  150 tons
+Batt Bearing:   1         1            TL 14
+Batteries:         1         1
+
+Has fuel scoops installed, no purification plant.
+Cost: MCr 149.05 standard.  MCr 119.24 in quantity.
+
+The problem with the original design was two fold.  They were:
+
+Jump drives of a given rating require a subsequent computer model rating to 
+equal or exceed the jump rating.  Thus, for a ship to have a legal computer 
+size for its jump-5 rating, it required a model 5 computer instead of a model 3 
+Fiber Optic model as given in the ship description in Adventure Class Ships 1 
+by Fasa.  The second problem arose when I attempted to fit in all of the 
+required specifications, which included enough fuel for a jump-5 duration 
+journey, plus the full Armor-7 rating required.  It just can not be done.  I 
+attempted to isolate where the problems lie by creating a spreadsheet 
+depicting all of the elements involved in the ship design, and discovered that 
+even if I were to ignore the armor requirements for the craft, and make it a 
+straight Jump-5, Manuever-3, Powerplant-5 craft, it still would not be able to fit 
+within a 150 dton hull.  

@@ -1,0 +1,66 @@
+Ship: Adventurer	Class: Adventurer
+Type: 200 Ton Yacht	Architect: TylersTools
+Tech Level: 15
+
+USP
+         YG-2611211-000000-00000-0 MCr 62.038 200 Tons
+Bat Bear                           Crew: 6
+Bat                                TL: 15
+
+Cargo: 70.000 Passengers: 8 Fuel: 24.000 EP: 4.000 Agility: 1
+Craft: 1 x 4T Enclosed Air-raft
+Fuel Treatment: Fuel Scoops and On Board Fuel Purification
+
+Architects Fee: MCr 0.614   Cost in Quantity: MCr 49.750
+
+Detailed Description
+
+HULL
+200.000 tons standard, 2,800.000 cubic meters, Flattened Sphere Configuration
+
+CREW
+Pilot, Engineer, Steward, Medic, 2 Gunners
+
+ENGINEERING
+Jump-1, 1G Maneuver, Power plant-2, 4.000 EP, Agility 1
+
+AVIONICS
+Bridge, Model/1 Computer
+
+HARDPOINTS
+2 Hardpoints
+
+ARMAMENT
+2 Dual Turrets without weapons 
+
+DEFENCES
+None
+
+CRAFT
+1 4.000 ton enclosed air-raft (Crew of 0, Cost of MCr 0.600)
+
+FUEL
+24.000 Tons Fuel (1 parsecs jump and 28 days endurance)
+On Board Fuel Scoops, On Board Fuel Purification Plant
+
+MISCELLANEOUS
+14.0 Staterooms, 8 High Passengers, 70.000 Tons Cargo
+
+USER DEFINED COMPONENTS
+1 Owner Stateroom Addition (4.0 tons), 1 Guest Stateroom Addition (4.0 tons)
+
+COST
+MCr 62.052 Singly (incl. Architects fees of MCr 0.614), MCr 49.150 in Quantity, plus MCr 0.600 of Carried Craft
+
+CONSTRUCTION TIME
+57 Weeks Singly, 46 Weeks in Quantity
+
+COMMENTS
+In 1077 the Duke of Srys commissioned the design and construction of a yacht for his second son Yar. The design became popular several years later when Yar, utilizing collapsible fuel tanks, reached Capital in a tour of the Imperium. Corporate executives and other nobles commissioned more ships in the class. The design's two double staterooms, ample cargo capacity and modest cost make it a popular ship as a yacht.
+
+NOTES
+The upper deck is slightly smaller than the lower deck. (Align the cargo areas without covering the maneuver drive spaces to fit correctly.) Fuel is carried in the fuel bubbles encompassing three-quarters of the ship as shown in diagram one. The interior ladder allows access to the lower cargo deck from the upper deck.
+
+Permission is granted to print / copy the design and deckplans for personal, non-commercial use as long as the copyright notice is maintained. 
+
+Copyright Sept. 2002 by Cary R Tyler

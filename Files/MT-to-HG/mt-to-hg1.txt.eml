@@ -1,0 +1,85 @@
+From: Jonathan Lupton  <jonathanlupton@hotmail.com>  
+Date: Fri Jun 16, 2000 5:52am  
+Subject: MT turret weapons in HG  
+
+
+
+Hi (again),
+
+Someone, a while ago, mentioned something about adapting bits of the
+MT ship design sequence for use with HG. I have decided to write up
+some extentions to the HG rules to allow the use of some of the extra
+options allowed in MT. Luckily the two design systems are (fairly)
+similar.
+
+I'll post the results bit by bit as I do them, if there's enough
+interest I'll stick it all together in one document and I'll put
+it on a web site somewhere. I'd quite like to rewrite the HG design
+sequence to include these extra and publish the whole thing, but
+I'm not sure that it would be legal :)
+
+First up: Turrets
+
+Despite the different presentation between the HG and MT the turret
+weapons are virtually unchanged, MT uses a different power rating
+but clearly states that 250 MW = 1 EP. Double checking the tables
+shows that none of the power rating have changed.
+
+None of the USP calculations are significantly different either, 3
+beam lasers still gives a USP of 3 etc. MT did allow higher TL's
+(upto 21 in fact) so it is possible to get a +3 bonus to a USP and
+so the maximum USP rises to A (10).
+
+Also Disintegrator turrets were added (TL 18!) and Particle
+accelerators were expanded on slightly.
+
+To use these new options all you need do is change the table on
+page 25 of HG in the following ways:
+
+Change the "TL Modif +2" row to be:
+Missile: 21+
+Beam:    16+
+Pulse:   16+
+Plasma:  12+
+Fusion:  17+
+Sand:    10+
+
+Add a "TL Modif +3" row:
+Plasma:  16+
+Sand:    16+
+Others:  -
+
+Remove the PA and PA Barbette columns (they are both in the new PA
+column) and add two new columns:
+
+USP           PA    Disintegrator
+1              1       1
+2              2       4
+3              4      10
+4              6      16
+5              8      20
+6             10       -
+7              -       -
+
+TL Avail:     14      18
+EP:            5      20
+TL Modif +1:  15+      -
+TL Modif +2:  16+      -
+TL Modif +3:  18+      -
+Weight:        *       2
+Cost:         **       5
+
+* Weight is 5t at TL14, 3t at 15, 2t at 16 and 1t at 18.
+** Cost is 4MCr at TL14, 3MCr at 15+
+
+You can have 2 disintegrators per turret.
+
+(The completed document will have a complete table)
+Thats about it for turrets, the combat tables will need extending
+but I'll do that after I've completed all the weapons tables.
+
+Next up: Spinal Mounted Jump Projectors :)
+
+J.
+________________________________________________________________________
+Get Your Private, Free E-mail from MSN Hotmail at http://www.hotmail.com

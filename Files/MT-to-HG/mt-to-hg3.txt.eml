@@ -1,0 +1,89 @@
+From: Jonathan Lupton  <jonathanlupton@hotmail.com>  
+Date: Wed Jun 21, 2000 5:11am  
+Subject: MT Spinal Mounts in HG  
+
+
+
+Hi,
+
+As promised heres the full spinal mount listing. The USP=X PA is
+my best guess as to what it should be. Combat tables will follow
+at a later date.
+
+Notes:
+Costs and TL's come straight from the MT tables, EP is power/250,
+Tonnage is MT hardpoints*100 and not a conversion of the volume
+figure (it doesn't match otherwise).
+EP rating of jump projectors are huge! But as antimatter power plants
+are available at high TL's you can power one quite easily.
+
+Spinal Mounts
+
+Particle Accelerator
+USP  Tonnage  TL    MCr    EP
+A      5500    8   3500   500
+B      5000    9   3000   500
+C      4500   10   2400   500
+D      4000   11   1500   600
+E      3500   12   1200   600
+F      3000   13   1200   600
+G      2500   14    800   700
+H      2500   15    500   700
+J      5000   10   3000   800
+K      4500   11   2000   800
+L      4000   12   1600   800
+M      3500   13   1200   900
+N      3000   14   1000   900
+P      2500   15    800   900
+Q      4500   12   2000  1000
+R      4000   13   1500  1000
+S      3500   14   1200  1000
+T      3000   15   1000  1000
+U      2500   16   1000  1100
+V      2000   17    800  1100
+W      1500   18    600  1100
+X      2500   17   1000  1200
+Y      1000   18    800  1200
+Z      1000   19    600  1300
+
+Meson Gun
+USP  Tonnage  TL    MCr    EP
+A      5000   11  10000   500
+B      8000   11  12000   600
+C      2000   12   3000   600
+D      5000   12   5000   700
+E      1000   13    800   700
+F      2000   13   1000   800
+G      1000   14    400   800
+H      2000   14    600   900
+J      1000   15    400   900
+K      8000   12  10000  1000
+L      5000   13   3000  1000
+M      4000   14    800  1000
+N      2000   15    600  1000
+P      8000   13   5000  1100
+Q      7000   14   1000  1100
+R      5000   15    800  1100
+S      8000   14   2000  1200
+T      7000   15   1000  1200
+U      8000   16   2000  1300
+V      7000   17   1200  1300
+W      5000   18   1000  1300
+X      8000   17   2000  1400
+Y      7000   18   1200  1400
+Z      5000   19    800  1500
+
+Disintegrators
+USP  Tonnage  TL    MCr    EP
+A      4500   17   5000  2000
+B      4000   18   3500  2200
+C      3500   19   2400  2200
+D      3000   20   1500  2300
+E      2500   21   1200  2300
+
+Jump Projector
+USP  Tonnage  TL    MCr    EP
+A      4000   21   1000 32000
+B      7000   21   1000 38000
+
+Next: Bay weapons.

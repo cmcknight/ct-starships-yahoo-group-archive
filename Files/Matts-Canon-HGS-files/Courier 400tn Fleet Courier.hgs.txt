@@ -1,0 +1,32 @@
+20000
+"Courier","Fleet Courier","400tn Fleet Courier","Imperial Architect Service","FF",15,400.0000,100000.0000,0,0,1,0,8,0.0000,0
+1,0,1,1,0.0000,0,0
+2,6,6,0,0,0,0,0,0,4.0000,0.0000,0,0,0
+28,6,0,0,0,0,0.0000,0,0,0
+13,0,0,0,1,0,2,0,0,2,0,0,2,0,0,0,0,0,0
+0,0
+0,0,0,0,0
+0,0,0,0,0,0,1
+0,0,2,3,1,2,3,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,1,1,1,0
+0,0,0,0,0,0,0,0,0,0.0000
+0,50.0000,"Assorted Small Craft",1,0,0.0000,0,50.0000,"Heavy Fighters",2,0,0.0000,0,20.0000,"Assorted Small Craft",1,0,0.0000,0,4.0000,"Air/raft",0,1,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0,50.0000,0,0.0000,0,0,0
+0,1,0,3,0,7.0,0.0,0,0,0,0.0000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.000,0,0
+0,1000.0000,"Admirals quarters & C3",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0,0
+0,1,0
+Reserved for future expansion
+Reserved for future expansion
+Reserved for future expansion
+J6 M2 Agility-2 The 60% internal jump fuel gives the Fleet Courier the best 
+possible jump speed, ensuring news, orders and key personal get to their 
+destinations in the shortest possible time. A pool of Fleet Couriers is attached to 
+each fleet and naval base, with couriers constantly moving between Fleet 
+pools as they deliver their charges. Whilst armed for self defence, use as 
+combat or recon ships is frowned upon. 
+
+Book 2 crew.
+Batteries reduced to 2, to reduce crew requirement.
+Passengers reduced to 3. (6 if double bunked).
+
+Fighting Ships pg 20
+Original Crew: 5
+Original Cost:  318.1803 MCr (before discounts etc.)

@@ -1,0 +1,52 @@
+Ship: Slow Boat
+Class: Slow Boat
+Type: Slow Boat
+Tech Level: 9
+
+USP
+         QB-0604401-020000-10000-0 MCr17.8 30 Tons
+Bat Bear             1     1       Crew: 1
+Bat                  1     1       TL: 9
+
+Cargo: 15.4 Fuel: 1.2 EP: 1.2 Agility: 0
+Fuel Treatment: Fuel Scoops
+
+Architects Fee: MCr0.2   Cost in Quantity: MCr14.3
+
+
+Detailed Description
+  (High Guard Design)
+
+HULL
+30 tons standard, 420 cubic meters, Flattened Sphere Configuration
+
+CREW
+Pilot
+
+ENGINEERING
+4G Manuever, Power plant-4, 1.2 EP, Agility 0
+
+AVIONICS
+No Bridge Installed, Model/1 Computer
+
+HARDPOINTS
+1 Hardpoint
+
+ARMAMENT
+1 Dual Mixed Turret with: 1 Beam Laser (Factor-1).
+
+DEFENCES
+1 Sandcaster in the Mixed Turret, organised into 1 Battery (Factor-2)
+
+FUEL
+1.2 Tons Fuel (28 days endurance)
+On Board Fuel Scoops, No Fuel Purification Plant
+
+MISCELLANEOUS
+9 Acceleration Couches, 15.4 Tons Cargo
+
+COST
+MCr 18 Singly (incl. Architects fees of MCr 0.2), MCr14.3 in Quantity
+
+CONSTRUCTION TIME
+16 Weeks Singly, 13 Weeks in Quantity

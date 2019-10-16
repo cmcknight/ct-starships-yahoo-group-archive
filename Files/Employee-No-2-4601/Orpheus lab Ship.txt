@@ -1,0 +1,62 @@
+Ship: Prometheus
+Class: Orpheus
+Type: Lab Ship
+Architect: StellarDream corporation
+Tech Level: 11
+
+USP
+         LL-67222B2-050000-00004-0 MCr 429.488 600 Tons
+Bat Bear             1         1   Crew: 18
+Bat                  1         1   TL: 11
+
+Cargo: 25 Fuel: 156 EP: 12 Agility: 2
+Craft: 1 x 50T Modular Cutter (ATV Module), 1 x 27T Cutter Fuel Module
+Fuel Treatment: On Board Fuel Purification
+
+Architects Fee: MCr 3.984   Cost in Quantity: MCr 349.810
+
+
+Detailed Description
+  (High Guard Design)
+
+HULL
+600.000 tons standard, 8,400.000 cubic meters, Dispersed Structure Configuration
+
+CREW
+Pilot, Navigator, 3 Engineers, Medic, 2 Gunners, 2 Flight Crew, 8 Scientists
+
+ENGINEERING
+Jump-2, 2G Manuever, Power plant-2, 12.000 EP, Agility 2
+
+AVIONICS
+Bridge, Model/2fib Computer
+
+HARDPOINTS
+6 Hardpoints
+
+ARMAMENT
+4 Triple Missile Turrets organised into 1 Battery (Factor-4)
+
+DEFENCES
+2 Triple Sandcaster Turrets organised into 1 Battery (Factor-5)
+
+CRAFT
+- 50-ton Modular Cutter (ATV Module) (Crew of 2, Cost of MCr 28.100) 
+- 27-ton Cutter Fuel Module (Crew of 0, Cost of MCr 3.000)
+
+FUEL
+- 156 Tons Fuel (2 parsecs jump and 84 days endurance)
+- No Fuel Scoops, On Board Fuel Purification Plant
+
+MISCELLANEOUS
+18 Staterooms, 6 Low Berths, 25 Tons Cargo
+
+USER DEFINED COMPONENTS
+- 8 Advanced Lab Modules (16.000 tons, Crew 1, Cost MCr 16.000) 
+- 18 Hydroponic Gardens (1.000 ton, Crew 0, Cost MCr 0.100)
+
+COST
+MCr 402.372 Singly (incl. Architects fees of MCr 3.984), MCr 318.710 in Quantity, plus MCr 31.100 of Carried Craft
+
+CONSTRUCTION TIME
+99 Weeks Singly, 79 Weeks in Quantity

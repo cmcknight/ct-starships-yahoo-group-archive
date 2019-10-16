@@ -1,0 +1,9 @@
+A heavy cruiser example.
+
+CA-911 New York CA-K166EJ3-D97900-999J9-0  MCr23,770  19,900 tons
+                        1   9     11116             Crew=185
+                        2   9     11116             TL=15
+Passengers=0 Low=93 Cargo=202 Fuel=6,766 EP=2786 Agility=6 No Marines
+Note: Internal fuel is restricted to Jump-2
+A 7,960 dton drop tank is normally carried for Jump=4, Agility=4
+or Jump=6 when dropping the external tank.

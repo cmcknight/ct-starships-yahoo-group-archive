@@ -1,0 +1,31 @@
+20000
+"Donosev","Survey Scout","400tn Survey Scout","Imperial Architect Service","SZ",15,400.0000,100000.0000,0,0,1,0,8,0.0000,0
+7,0,1,1,0.0000,0,0
+2,3,3,0,0,0,0,0,0,4.0000,0.0000,0,0,0
+28,3,1,0,0,0,0.0000,0,0,0
+11,0,0,0,1,0,2,0,0,2,0,0,2,0,0,0,0,0,0
+0,0
+0,0,0,0,0
+0,0,0,0,0,0,1
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,1,1,1,0
+0,0,0,0,0,0,0,0,0,0.0000
+0,50.0000,"Assorted Small Craft",1,0,0.0000,0,50.0000,"Heavy Fighters",2,0,0.0000,0,20.0000,"Assorted Small Craft",1,0,0.0000,3,4.0000,"Air/raft",0,1,0.0000,1,50.0000,"Modular Cutter",1,0,0.0000,1,30.0000,"Cutter Module",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0,50.0000,0,0.0000,0,0,0
+1,1,0,0,0,14.0,0.0,0,0,0,0.0000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.000,0,0
+0,1000.0000,"Admirals quarters & C3",0,0.0000,0.0000,0,0,0,0,1,20.0000,"Survey module & databanks",8,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0,0
+0,1,0
+Reserved for future expansion
+Reserved for future expansion
+Reserved for future expansion
+Used by the Imperial Scout Service to update the Grand Survey and maintain 
+navigational aids. Usually operating within Imperial borders the 
+Survey Scout is typically unarmed. If purchasing a Donosev privately, shop 
+around...
+
+Book 2 crew.
+20tn Survey & databank module included plus 8 Survey specialists
+14 single occupancy staterooms
+Cutter modules: 1x Cargo/Passenger 1x Fuel Skim module
+
+Fighting Ships pg 13
+Original Crew: 10
+Original Cost:  263.8221 MCr (before discounts etc.)

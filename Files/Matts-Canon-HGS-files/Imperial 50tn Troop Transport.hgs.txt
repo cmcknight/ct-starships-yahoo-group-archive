@@ -1,0 +1,26 @@
+20000
+"Imperial","Troop Transport","50tn Troop Transport","Imperial Naval Architects","TT",15,50.0000,200000.0000,0,0,1,0,8,0.0000,0
+2,2,1,1,0.0000,0,0
+3,0,3,0,0,0,0,0,0,4.0000,0.0000,0,0,0
+28,0,0,1,0,0,0.0000,0,0,0
+1,0,0,1,1,0,2,0,0,2,0,0,2,0,0,0,0,0,0
+0,0
+0,0,0,0,0
+0,0,0,0,0,0,1
+0,0,1,3,1,1,3,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,3,1,0,1,1
+0,0,0,0,0,0,0,0,0,0.0000
+0,50.0000,"Assorted Small Craft",1,0,0.0000,0,50.0000,"Heavy Fighter",0,0,0.0000,0,35.0000,"Pinnace",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0,50.0000,0,0.0000,0,0,0
+1,1,0,0,0,0.0,0.0,51,0,0,0.0000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.000,0,0
+0,10.0000,"Missile Magazine",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0,0
+0,0,0
+Reserved for future expansion
+Reserved for future expansion
+Reserved for future expansion
+J0 M3 Agility-3 Original design with a bridge allows only 6tn cargo. A computer
+-1 & control couch adds 1Mcr to the cost, but allows 14tn cargo capacity.
+Couches for 50 passengers/troops
+Changed: dropped bridge, added computer-1 & small craft couch, cargo 14tn
+
+Fighting Ships pg 24
+Original Crew: 2
+Original Cost: 16.0085 MCr (before discounts etc.)

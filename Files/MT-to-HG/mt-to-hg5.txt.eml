@@ -1,0 +1,38 @@
+From: Jonathan Lupton  <jonathanlupton@hotmail.com>  
+Date: Thu Jun 22, 2000 5:38am  
+Subject: MT Bays  
+
+
+
+Bays
+
+100 ton
+                TL
+Type            7  8  9 10 11 12 13 14 15 16 17 18 19 20 21  EP  MCr
+Missile         7  7  7  8  8  9  9  A  A  B  B  C  C  D  D   0   20
+Particle Accel     6  6  7  7  8  8  9  9  A  A  B  B  C  C  60   35
+Repulsor                 2  4  6  7  8  9  A  B  C  D  E  F  10   10
+Meson Gun                         3  5  8  B  D  F  H       200   70
+Tractors                                   2  4  6  7  8    200   40
+
+50 ton
+                TL
+Type            7  8  9 10 11 12 13 14 15 16 17 18 19 20 21  EP  MCr
+Missile               7  7  7  8  8  9  9  A  A  B  B  C  C   0   12
+Particle Accel           3  3  4  4  5  5  6  6  7  7  8  8  30   20
+Plasma Gun               4  5  6                             10    5
+Fusion Gun                     7  8  9  A  B  C  D  E  F     20    8
+Repulsor                             3  5  7  9  A  B  C  D   5    6
+Meson Gun                               4  6  9  B  D  F  H 100   50
+Disintegrator                                    6  6  7  7 130   90
+Tractors                                               3  5 100   24
+Jump Damper                                               1 400  120
+
+Notes:
+MT lists 100t missile bays to be available at TL 7 but only lists
+USP codes from TL 8 upward. MegaErrata fixes this by making them
+available from TL 8 upward rather than adding the extra USP code.
+I've decided to keep the TL 7 option, it's in HG, it must exist.
+MT also lists Fusion Gun 50t Bays incorrectly, MegaErrata fixes this.
+
+J.

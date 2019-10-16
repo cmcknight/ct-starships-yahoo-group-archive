@@ -1,0 +1,115 @@
+	Passenger NPC Tables
+
+Roll 1D for each stat. Result of 1=6, 2-3=7, 4-5=8, and 6=9. Roll 2D and consult the table below to derive service.
+
+	2nd D	1		2		3		4		5		6
+1st D
+1		Hunter		Belter		Marine		Noble		Rouge*		Merchant
+
+2		Barbarian	Scout		Army		Flyer		Bureaucrat	Sailor
+
+3		Merchant	Flyer		Doctor		Diplomat	Scientist	Bureaucrat
+
+4		Bureaucrat	Army		Scout		Hunter		Noble		Navy
+
+5		Sailor		Marine		Noble		Scientist	Diplomat	Pirate*
+
+6		Navy		Noble		Rouge*		Bureaucrat	Belter		Doctor
+
+If the indicated NPC is a noble adjust social standing to B. Roll 9+ on 2D for NPC to be retired from indicated service, if so then roll on the Retired table bypassing the service table. Roll 1D for number of terms served at retirement. A result of 1-3=5 terms, 4-5=6 terms, 6=7 terms. Add 4D-4 to determine age. *Pirates and rouges roll 2D, 5+ traveling under an alias (re-roll on chart to find alias ignoring pirate / rouge / doctor), DM's: +1 if INT or EDU 8+, +2 if INT or EDU A+. Roll 1D per requisite aging group, on a 4+ apply age modifiers to stat. DM's: -1 if service is one of the basic five services (+), +1 if retired. NPC's have 1 other skill plus any requisite basic training skill of one. DM: +1 skill per term in service. Roll from basic charts in Book 1,  Characters and Combat, or Supplement 4, Citizens of the Imperium. If a Doctor is indicated and has at least two terms he is given the skill Medic -3 as his first choices. One additional skill is added per term after the second. First term Doctors are considered to be in Medical School and roll for skills as other NPC's. NPC's have 500 Cr multiplied 1D+1 per two terms of service as ready available cash/credit. DM's: +2 if Doctor, +4 if Noble.
+
+Roll 2D and consult the table below to derive travel purpose.
+
+Purpose
+	Navy(+)		Marine(+)	Army(+)		Scouts(+)	Merchant(+)	Pirate
+
+2	Sales		Sales		Sales		Sales		Reassignment	Vacation
+3	Liaison		Coordination	Coordination	Coordination	Liaison		Liaison
+4	Coordination	Liaison		Liaison		Procurement	Procurement	Sales
+5	Procurement	Procurement	Procurement	Reassignment	Sales		Procurement
+6	Reassignment	Reassignment	Reassignment	Liaison		Coordination	Reassignment
+7	Reassignment	Reassignment	Reassignment	Liaison		Coordination	Reassignment
+8	Liaison		Coordination	Coordination	Coordination	Liaison		Liaison
+9	Coordination	Liaison		Liaison		Procurement	Procurement	Sales
+10	Vacation	Vacation	Vacation	Vacation	Vacation	Coordination
+11	Reassignment	Reassignment	Reassignment	Liaison		Coordination	Reassignment
+12	Special		Special		Special		Special		Special		Special
+
+
+	Belter		Sailor		Diplomat	Doctor		Flyer		Barbarian
+
+2	Vacation	Coordination	Procurement	Procurement	Coordination	Coordination
+3	Liaison		Reassignment	Coordination	Vacation	Liaison		Sales
+4	Procurement	Liaison		Reassignment	Reassignment	Procurement	Reassignment
+5	Coordination	Sales		Sales		Liaison		Sales		Sales
+6	Sales		Procurement	Liaison		Sales		Reassignment	Liaison
+7	Sales		Procurement	Liaison		Sales		Reassignment	Liaison
+8	Liaison		Reassignment	Coordination	Vacation	Liaison		Procurement
+9	Procurement	Liaison		Reassignment	Reassignment	Procurement	Reassignment
+10	Reassignment	Vacation	Vacation	Coordination	Vacation	Vacation
+11	Sales		Procurement	Liaison		Sales		Reassignment	Liaison
+12	Special		Special		Special		Special		Special		Special
+
+
+	Bureaucrat	Rouge		Noble		Scientist	Hunter		Retired
+
+2	Sales		Vacation	Sales		Sales		Vacation	Sales
+3	Liaison		Reassignment	Vacation	Procurement	Liaison		Liaison
+4	Coordination	Sales		Procurement	Liaison		Reassignment	Coordination
+5	Procurement	Procurement	Liaison		Coordination	Procurement	Vacation
+6	Reassignment	Liaison		Coordination	Reassignment	Sales		Vacation
+7	Reassignment	Liaison		Coordination	Reassignment	Sales		Vacation
+8	Liaison		Reassignment	Vacation	Procurement	Liaison		Liaison
+9	Coordination	Sales		Procurement	Liaison		Reassignment	Coordination
+10	Vacation	Coordination	Reassignment	Vacation	Coordination	Reassignment
+11	Reassignment	Liaison		Coordination	Reassignment	Sales		Procurement
+12	Special		Special		Special		Special		Special		Special
+
+
+Coordination-The NPC is traveling to conduct intra-service communication. For retirees this is considered family visitation and communication.
+Liaison-The NPC is traveling to conduct communication with another service, agency, business, world, government, etc. For retirees this is visitation and communication with friends.
+Procurement-The NPC is traveling to buy raw materials, goods, equipment, parts and/or services on behave of  the service. Retirees are buying material for themselves.
+Reassignment-The NPC is traveling due to either voluntary or involuntary habitat relocation. For humans roll 1D, on 5+ the NPC is traveling  with family (mate and /or children). Dm's: +1 per term of service beyond first (beyond second term for pirate or rouge), -1 if one of the basic five services (+), -2 if pirate or rouge. Roll 1D-2 to find number of additional passengers (minimum of 1).DM: +1 per two terms served/ serving.
+Sales-The NPC is traveling to sell raw materials, goods, equipment, parts and/or services on behave of  the service. Retirees are selling material for themselves.
+Special-The NPC is traveling to undertake a secretive and/or dangerous mission for the service or is conducting illegal trade or contact. Roll 2D consulting the same table to derive a cover story ignoring rerolls of special.Retirees are performing a mission for their previous service. 
+Vacation-The NPC is traveling to see rare caverns, lush green fields, historical sites, cities, visit relatives or friends, etc.
+
+If the result is coordination, liaison, procurement, or sales roll 2D and consult the table below to derive operational subject.
+
+2nd D	1		2		3		4		5		6
+1st D
+1	Transportation	Services	Mercantile	Financial	Political	Technical
+
+2	Criminal	Entertainment	Transportation	Technical	Manufacturing	Social
+
+3	Financial	Mercantile	Manufacturing	Raw Material	Mercantile	Entertainment
+
+4	Entertainment	Raw Material	Mercantile	Transportation	Technical	Manufacturing
+
+5	Social		Transportation	Financial	Manufacturing	Raw Material	Criminal
+
+6	Financial	Political	Raw Material	Technical	Services	Entertainment
+
+These refer to charts in the Judges Guild "The Traveller's Logbook". 
+
+With a bit of imagination the passenger NPC can be fleshed out. 
+
+Example 1
+Sondra 687977 3rd year of second term as sailor, age 25. 
+Fwd Obsv 1, Commo 2, Gravitics 1 
+CR 1500
+Liaison
+Entertainment
+Athlete
+
+She is an officer (O2) travelling to meet an athlete of subsector renown in order to persuade the athlete to appear in a (holovideo, flat video, radio) commercial for service recruitment purposes.
+
+Example 2
+Henric 989776 2nd year of fourth term as marine, age 32. 
+Cutlass 1, Vechicle 1, +1 Endur, Gun Combat 2, Tactics 1, Mech 1
+Cr 4000
+Reassignment
+Wife and four children
+
+Henric has six mid-passage tickets provided by the service to relocate himself and his family. He will accept double occupancy for his children if necessary to travel as a family. If unable to travel as a family unit Henric rebooks on a different ship. 
+

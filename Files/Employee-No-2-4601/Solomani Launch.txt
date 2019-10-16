@@ -1,0 +1,57 @@
+Ship: Solomani Launch
+Class: Solomani Launch
+Type: Lanuch
+Architect: Panstellar Inc.
+Tech Level: 13
+
+USP
+         SL-0202211-030000-00002-0 MCr9 20 Tons
+Bat Bear             1         1   Crew: 1
+Bat                  1         1   TL: 13
+
+Cargo: 11 Fuel: 1 EP: 0.4 Agility: 2
+Fuel Treatment: Fuel Scoops
+
+Architects Fee: MCr0.1   Cost in Quantity: MCr7.2
+
+
+Detailed Description
+  (High Guard Design)
+
+HULL
+20 tons standard, 280 cubic meters, Cone Configuration
+
+CREW
+Pilot
+
+ENGINEERING
+2G Manuever, Power plant-2, 0.4 EP, Agility 2
+
+AVIONICS
+Bridge, Model/1 Computer
+
+HARDPOINTS
+1 Hardpoint
+
+ARMAMENT
+1 Dual Mixed Turret with: 1 Missile Rack (Factor-2).
+
+DEFENCES
+1 Sandcaster in the Mixed Turret, organised into 1 Battery (Factor-3)
+
+FUEL
+0.4 Tons Fuel (28 days endurance)
+On Board Fuel Scoops, No Fuel Purification Plant
+
+MISCELLANEOUS
+2 Acceleration Couches, 11 Tons Cargo
+
+COST
+MCr9.1 Singly (incl. Architects fees of MCr0.1), MCr7.2 in Quantity
+
+CONSTRUCTION TIME
+11 Weeks Singly, 9 Weeks in Quantity
+
+COMMENTS
+This Solomani Launch is a high-tech, high-performance model intended for use with the Solomani 
+Fleet Couriers. Lower-tech models are very similar to the standard Imperial Launch.

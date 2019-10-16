@@ -1,0 +1,57 @@
+Ship: Solomani Free Trader
+Class: Solomani Free Trader
+Type: Free Trader
+Architect: Panstellar Inc.
+Tech Level: 11
+
+USP
+         SA-46222R1-040000-30000-0 MCr187.9 400 Tons
+Bat Bear             1     1       Crew: 9
+Bat                  1     1       TL: 11
+
+Cargo: 156 Passengers: 8 Fuel: 88 EP: 8 Agility: 1
+Craft: 1x 20T Launch
+Fuel Treatment: Fuel Scoops and On Board Fuel Purification
+
+Architects Fee: MCr1.8   Cost in Quantity: MCr151.4
+
+
+Detailed Description
+  (High Guard Design)
+
+HULL
+400 tons standard, 5,600 cubic meters, Flattened Sphere Configuration
+
+CREW
+Pilot, Navigator, 2 Engineers, Steward, Medic, 2 Gunners, 1 Flight Crew
+
+ENGINEERING
+Jump-2, 2G Manuever, Power plant-2, 8 EP, Agility 1
+
+AVIONICS
+Bridge, Model/1bis Computer
+
+HARDPOINTS
+2 Hardpoints
+
+ARMAMENT
+1 Triple Beam Laser Turret organised into 1 Battery (Factor-3)
+
+DEFENCES
+1 Triple Sandcaster Turret organised into 1 Battery (Factor-4)
+
+CRAFT
+1x 20-ton Launch (Crew of 1, Cost of MCr5.4)
+
+FUEL
+88 Tons Fuel (2 parsecs jump and 28 days endurance)
+On Board Fuel Scoops, On Board Fuel Purification Plant
+
+MISCELLANEOUS
+12.5 Staterooms, 8 High Passengers, 156 Tons Cargo
+
+COST
+MCr184.3 Singly (incl. Architects fees of MCr1.8), MCr146 in Quantity, plus MCr5.4 of Carried Craft
+
+CONSTRUCTION TIME
+82 Weeks Singly, 65 Weeks in Quantity

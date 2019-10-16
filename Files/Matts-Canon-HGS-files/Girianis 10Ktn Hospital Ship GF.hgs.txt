@@ -1,0 +1,35 @@
+20000
+"Girianis","Hospital Ship","10 Ktn Hospital Ship","Imperial Architect Services","QH",15,10000.0000,200000.0000,0,1,1,0,8,0.0000,0
+4,0,1,1,0.0000,0,0
+2,4,4,0,0,0,0,0,0,4.0000,0.0000,0,0,0
+28,4,0,0,0,0,0.0000,0,0,0
+9,9,1,0,1,0,2,0,0,2,0,0,2,0,0,0,0,0,0
+0,0
+0,0,0,0,0
+0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+0,0,0,0,0,0,0,0,0,0.0000
+10,20.0000,"Assorted small craft",2,0,0.0000,1,50.0000,"Standard dock",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0.0000,"None",0,0,0.0000,0,0,0.0000,0,0.0000,0,0,0
+0,0,0,0,0,145.5,0.0,0,0,0,0.0000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.000,0,0
+1,3000.0000,"Hospital module",200,0.0000,3000.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0.0000,"None",0,0.0000,0.0000,0,0,0,0,0,0,0
+0,1,0
+Reserved for future expansion
+Reserved for future expansion
+Reserved for future expansion
+J4 M2 Agility-2 Intended to provide full high tech medical facilities to the 
+Imperiums fighting forces, a Girianus can be found with most major battle and 
+invasion fleets. In peace time the Girianus with its Close Escorts, shows the 
+flag and provides its services to the populations of disadvantaged worlds.
+
+From Grand Fleet, Avenger Enterprises.
+
+As a hospital ship, this vessel is unarmed and unarmoured, the carried small 
+craft are likewise unarmed.
+
+The smallcraft are 20tn Gigs with two crew trained as field medics. Capacity for 
+passengers and wounded are included. A 50tn dock is included for fast 
+transfer of wounded from standard Imperial 50tn craft.
+
+The hospital module provides capacity for 1000 patients, multiple surgeries and 
+support facilities operated by 200 medical staff. The price tag is a 
+guestimate based on 1Mcr per ton. 

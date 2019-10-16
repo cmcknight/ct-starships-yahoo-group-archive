@@ -1,0 +1,80 @@
+From: Jonathan Lupton  <jonathanlupton@hotmail.com>  
+Date: Fri Jun 23, 2000 4:49am  
+Subject: MT Screens  
+
+
+
+Here's the converted screens list.
+A couple of the newer screens don't look quite right(White Globe usp=3
+and Proton Screen usp=4) but theres no way of telling.
+
+Screens
+
+Nuclear Dampers
+USP TL Tonnage  MCr    EP
+1   12    50     50    10
+2   13    15     40    20
+3   13    20     45    30
+4   14     8     30    40
+5   14    10     35    50
+6   14    12     38    60
+7   15    10     30    70
+8   15    15     40    80
+9   15    20     50    90
+A   16    12     45   100
+B   17    14     50   110
+C   18    16     55   120
+D   19    18     60   130
+E   20    20     65   140
+F   21    22     70   150
+
+Meson Screens
+USP TL Tonnage  MCr  EP/100dt
+1   12    90     80     0.2
+2   13    30     50     0.4
+3   13    45     55     0.6
+4   14    16     40     0.8
+5   14    20     45     1.0
+6   14    24     50     1.2
+7   15    20     40     1.4
+8   15    30     50     1.6
+9   15    40     60     1.8
+A   16    50     50     2.0
+B   17    60     60     2.2
+C   18    70     70     2.4
+D   19    80     80     2.6
+E   20    90     90     2.8
+F   21   100    100     3.0
+
+Black Globe (Force Field)
+USP TL Tonnage  MCr
+1   15    10    400
+2   15    15    600
+3   15    20    800
+4   15    25   1000
+5   16    20    500
+6   16    25    700
+7   16    30    900
+8   17    20    500
+9   18    20    500
+A   19    20    500
+
+White Globe
+USP TL Tonnage  MCr    EP
+1   20     2    900     0.4
+2   20     3    910     0.8
+3   20     4    750     1.2
+4   21     2    800     1.6
+5   21     3    850     2.0
+6   21     4    900     2.4
+
+Proton Screen
+USP TL Tonnage  MCr    EP
+1   19   100     75   100
+2   20    30     60   200
+3   20    40     70   300
+4   21    45     45   400
+5   21    20     55   500
+6   21    25     60   600
+
+J.
